@@ -45,7 +45,6 @@ Papers analyzing concurrent programming and memory safety guarantees.
 **TYPEPULSE: Detecting Type Confusion Bugs in Rust Programs**
 - *Authors:* Chen, Hung-Mao, Xu He, Shu Wang, Xiaokuan Zhang, and Kun Sun
 - *Venue:* USENIX Security 2025
-- *Abstract:* Detects type confusion vulnerabilities in Rust programs
 - *Tags:* `type-safety` `vulnerability-detection` `security`
 - 📄 [Paper](https://www.usenix.org/conference/usenixsecurity25/presentation/chen-hung-mao)
 
@@ -54,9 +53,12 @@ Papers analyzing concurrent programming and memory safety guarantees.
 - *Authors:* Yang, Chenyuan, Xuheng Li, Md Rakib Hossain Misu, Jianan Yao, Weidong Cui, Yeyun Gong, Chris Hawblitzel, et al.
 - *Venue:* OOPSLA 2025 (Proceedings of the ACM on Programming Languages, Vol. 9, No. OOPSLA2)
 - *Pages:* 3454-3482
-- *Abstract:* Automated verification tool for Rust code correctness
 - *Tags:* `formal-verification` `automation` `proof-generation`
 - 📄 [Paper](https://dl.acm.org/doi/pdf/10.1145/3763174)
+
+ **Benefits and drawbacks of adopting a secure programming language: Rust as a case study**
+- *Authors:* Androutsopoulos, Georgios and Bianchi, Antonio
+- 📄 [Paper](https://arxiv.org/pdf/2506.15648)
 
 ---
 
