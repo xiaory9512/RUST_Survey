@@ -56,6 +56,11 @@ Papers analyzing concurrent programming and memory safety guarantees.
 3. **[`Benefits and drawbacks of adopting a secure programming language: Rust as a case study`](https://arxiv.org/pdf/2506.15648)**  
    Androutsopoulos, Georgios and Bianchi, Antonio. (2025), *arXiv preprint*, arXiv:2508.04295
 
+4. **[`HALURust: Exploiting Hallucinations of Large Language Models to Detect Vulnerabilities in Rust`](https://arxiv.org/pdf/2503.10793)**  
+   Luo, Yu and Zhou, Han and Zhang, Mengtao and De La Rosa, Dylan and Ahmed, Hafsa and Xu, Weifeng and Xu, Dianxiang, *arXiv preprint*, arXiv:2503.10793
+
+5. 
+
 ---
 
 ### 2024
