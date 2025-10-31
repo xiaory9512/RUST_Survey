@@ -57,7 +57,7 @@ Papers analyzing concurrent programming and memory safety guarantees.
    📄 [`Paper`](https://dl.acm.org/doi/pdf/10.1145/3763174) | `Formal Verification` `Automation`
 
 3. **Benefits and drawbacks of adopting a secure programming language: Rust as a case study**
-   Authors: Androutsopoulos, Georgios and Bianchi, Antonio (2025)
+   Androutsopoulos, Georgios and Bianchi, Antonio (2025)
    *arXiv preprint*, arXiv:2508.04295
   📄 [`Paper`](https://arxiv.org/pdf/2506.15648)
 
