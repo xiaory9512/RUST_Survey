@@ -48,7 +48,7 @@ Papers analyzing concurrent programming and memory safety guarantees.
 - *Abstract:* Detects type confusion vulnerabilities in Rust programs
 - *Tags:* `type-safety` `vulnerability-detection` `security`
 - 📄 [Paper](https://www.usenix.org/conference/usenixsecurity25/presentation/chen-hung-mao)
-- 📊 [Citation](https://scholar.google.com/)
+
 
 **Autoverus: Automated Proof Generation for Rust Code**
 - *Authors:* Yang, Chenyuan, Xuheng Li, Md Rakib Hossain Misu, Jianan Yao, Weidong Cui, Yeyun Gong, Chris Hawblitzel, et al.
@@ -57,7 +57,6 @@ Papers analyzing concurrent programming and memory safety guarantees.
 - *Abstract:* Automated verification tool for Rust code correctness
 - *Tags:* `formal-verification` `automation` `proof-generation`
 - 📄 [Paper](https://dl.acm.org/doi/pdf/10.1145/3763174)
-- 💻 [Code](https://github.com/example) *(if available)*
 
 ---
 
