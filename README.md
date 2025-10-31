@@ -46,10 +46,10 @@ Papers analyzing concurrent programming and memory safety guarantees.
 
 ## 2025
 
-1. **TYPEPULSE: Detecting Type Confusion Bugs in Rust Programs**  
+1. **TYPEPULSE: Detecting Type Confusion Bugs in Rust Programs**(https://www.usenix.org/conference/usenixsecurity25/presentation/chen-hung-mao)  
    Chen, H.-M., He, X., Wang, S., Zhang, X., & Sun, K. (2025)  
    *USENIX Security 2025*  
-   📄 [`Paper`](https://www.usenix.org/conference/usenixsecurity25/presentation/chen-hung-mao)
+   
 
 2. **Autoverus: Automated Proof Generation for Rust Code**  
    Yang, C., Li, X., Misu, M. R. H., et al. (2025)  
