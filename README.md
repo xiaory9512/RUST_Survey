@@ -50,15 +50,11 @@ Papers analyzing concurrent programming and memory safety guarantees.
    Chen, H.-M., He, X., Wang, S., Zhang, X., & Sun, K. (2025), *USENIX Security 2025*  
    
 
-2. **Autoverus: Automated Proof Generation for Rust Code**  
-   Yang, C., Li, X., Misu, M. R. H., et al. (2025)  
-   *OOPSLA 2025*, 9(OOPSLA2), 3454-3482  
-   📄 [`Paper`](https://dl.acm.org/doi/pdf/10.1145/3763174) | `Formal Verification` `Automation`
+2. **[`Autoverus: Automated Proof Generation for Rust Code`](https://dl.acm.org/doi/pdf/10.1145/3763174)**  
+   Yang, C., Li, X., Misu, M. R. H., et al. (2025),  *OOPSLA 2025*, 9(OOPSLA2), 3454-3482  
 
-3. **Benefits and drawbacks of adopting a secure programming language: Rust as a case study**  
-   Androutsopoulos, Georgios and Bianchi, Antonio. (2025)  
-   *arXiv preprint*, arXiv:2508.04295  
-  📄 [`Paper`](https://arxiv.org/pdf/2506.15648)  
+3. **[`Benefits and drawbacks of adopting a secure programming language: Rust as a case study`](https://arxiv.org/pdf/2506.15648)**  
+   Androutsopoulos, Georgios and Bianchi, Antonio. (2025), *arXiv preprint*, arXiv:2508.04295
 
 ---
 
