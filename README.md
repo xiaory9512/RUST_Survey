@@ -42,23 +42,23 @@ Papers analyzing concurrent programming and memory safety guarantees.
 
 #### Type Confusion & Security
 
-**TYPEPULSE: Detecting Type Confusion Bugs in Rust Programs**
-- *Authors:* Chen, Hung-Mao, Xu He, Shu Wang, Xiaokuan Zhang, and Kun Sun
-- *Venue:* USENIX Security 2025
-- *Tags:* `type-safety` `vulnerability-detection` `security`
-- 📄 [Paper](https://www.usenix.org/conference/usenixsecurity25/presentation/chen-hung-mao)
+# Rust Security Research Survey
 
+## 2025
 
-**Autoverus: Automated Proof Generation for Rust Code**
-- *Authors:* Yang, Chenyuan, Xuheng Li, Md Rakib Hossain Misu, Jianan Yao, Weidong Cui, Yeyun Gong, Chris Hawblitzel, et al.
-- *Venue:* OOPSLA 2025 (Proceedings of the ACM on Programming Languages, Vol. 9, No. OOPSLA2)
-- *Pages:* 3454-3482
-- *Tags:* `formal-verification` `automation` `proof-generation`
-- 📄 [Paper](https://dl.acm.org/doi/pdf/10.1145/3763174)
+1. **TYPEPULSE: Detecting Type Confusion Bugs in Rust Programs**  
+   Chen, H.-M., He, X., Wang, S., Zhang, X., & Sun, K. (2025)  
+   *USENIX Security 2025*  
+   [`Paper`](https://www.usenix.org/conference/usenixsecurity25/presentation/chen-hung-mao) | `Type Safety` `Vulnerability Detection`
 
- **Benefits and drawbacks of adopting a secure programming language: Rust as a case study**
-- *Authors:* Androutsopoulos, Georgios and Bianchi, Antonio
-- 📄 [Paper](https://arxiv.org/pdf/2506.15648)
+2. **Autoverus: Automated Proof Generation for Rust Code**  
+   Yang, C., Li, X., Misu, M. R. H., et al. (2025)  
+   *OOPSLA 2025*, 9(OOPSLA2), 3454-3482  
+   📄 [`Paper`](https://dl.acm.org/doi/pdf/10.1145/3763174) | `Formal Verification` `Automation`
+
+3. **Benefits and drawbacks of adopting a secure programming language: Rust as a case study**
+   Authors: Androutsopoulos, Georgios and Bianchi, Antonio
+  📄 [Paper](https://arxiv.org/pdf/2506.15648)
 
 ---
 
