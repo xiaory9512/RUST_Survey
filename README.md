@@ -58,7 +58,10 @@ Papers analyzing concurrent programming and memory safety guarantees.
 4. **[`HALURust: Exploiting Hallucinations of Large Language Models to Detect Vulnerabilities in Rust`](https://arxiv.org/pdf/2503.10793)**  
    Luo, Yu and Zhou, Han and Zhang, Mengtao and De La Rosa, Dylan and Ahmed, Hafsa and Xu, Weifeng and Xu, Dianxiang, *arXiv preprint*, arXiv:2503.10793
 
-5. 
+5. **[`Safe4U: Identifying Unsound Safe Encapsulations of Unsafe Calls in Rust using LLMs`](https://doi.org/10.1145/3728890)**  
+   Li, Huan, Bei Wang, Xing Hu, and Xin Xia, *Proceedings of the ACM on Software Engineering 2, no. ISSTA (2025): 457-480*
+
+6. 
 
 ---
 
@@ -70,10 +73,10 @@ Papers analyzing concurrent programming and memory safety guarantees.
 
 ### 2023
 
-**[`A closer look at the security risks in the rust ecosystem`](https://doi.org/10.1145/3624738)**  
+1. **[`A closer look at the security risks in the rust ecosystem`](https://doi.org/10.1145/3624738)**  
    Zheng, Xiaoye, Zhiyuan Wan, Yun Zhang, Rui Chang, and David Lo, *ACM Transactions on Software Engineering and Methodology 33, no. 2 (2023): 1-30.*
 
-   **[`CrabSandwich: Fuzzing Rust with Rust (Registered Report)`](https://doi.org/10.1145/3605157.3605176)**  
+2. **[`CrabSandwich: Fuzzing Rust with Rust (Registered Report)`](https://doi.org/10.1145/3605157.3605176)**  
    Crump, Addison, Dongjia Zhang, Syeda Mahnur Asif, Dominik Maier, Andrea Fioraldi, Thorsten Holz, and Davide Balzarotti, *In Proceedings of the 2nd International Fuzzing Workshop (2023): 39-46.*
  
    
