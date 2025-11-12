@@ -74,7 +74,7 @@ Papers analyzing concurrent programming and memory safety guarantees.
    Louka, Antonis, Antreas Dionysiou, and Elias Athanasopoulos. (2024), *Proceedings of the 17th European Workshop on Systems Security, pp. 8-14.
 
 2. **[`Crabtree: Rust API Test Synthesis Guided by Coverage and Type`](https://doi.org/10.5281/zenodo.13626235)**  
-   Louka, Antonis, Antreas Dionysiou, and Elias Athanasopoulos. (2024), *Proceedings of the ACM on Programming Languages 8, no. OOPSLA2 (2024): 618-647.
+   Takashima, Yoshiki, Chanhee Cho, Ruben Martins, Limin Jia, and Corina S. Păsăreanu. (2024), *Proceedings of the ACM on Programming Languages 8, no. OOPSLA2 (2024): 618-647.
 
 ---
 
