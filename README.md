@@ -74,7 +74,7 @@ Papers analyzing concurrent programming and memory safety guarantees.
    Zheng, Xiaoye, Zhiyuan Wan, Yun Zhang, Rui Chang, and David Lo, *ACM Transactions on Software Engineering and Methodology 33, no. 2 (2023): 1-30.*
 
    **[`CrabSandwich: Fuzzing Rust with Rust (Registered Report)`](https://doi.org/10.1145/3605157.3605176)**  
-   Crump, Addison, Dongjia Zhang, Syeda Mahnur Asif, Dominik Maier, Andrea Fioraldi, Thorsten Holz, and Davide Balzarotti, *In Proceedings of the 2nd International Fuzzing Workshop (2023): 1-30.*
+   Crump, Addison, Dongjia Zhang, Syeda Mahnur Asif, Dominik Maier, Andrea Fioraldi, Thorsten Holz, and Davide Balzarotti, *In Proceedings of the 2nd International Fuzzing Workshop (2023): 39-46.*
  
    
 ---
