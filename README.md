@@ -76,6 +76,9 @@ Papers analyzing concurrent programming and memory safety guarantees.
 2. **[`Crabtree: Rust API Test Synthesis Guided by Coverage and Type`](https://doi.org/10.5281/zenodo.13626235)**  
    Takashima, Yoshiki, Chanhee Cho, Ruben Martins, Limin Jia, and Corina S. Păsăreanu. (2024), *Proceedings of the ACM on Programming Languages 8, no. OOPSLA2 (2024): 618-647.
 
+3. **[`Understanding the Challenges in Detecting Vulnerabilities of Rust Applications`](https://ieeexplore.ieee.org/abstract/document/10734062)**  
+   Stephens, Diane B., Kawkab Aldoshan, and Mustakimur Rahman Khandaker. (2024), *IEEE Secure Development Conference (SecDev) (pp. 54-63).
+
 ---
 
 ### 2023
