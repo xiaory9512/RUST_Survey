@@ -18,7 +18,7 @@ This repository maintains a comprehensive survey of academic research papers rel
 - Memory safety
 - Concurrency bugs
 
-**Total Papers:** X papers spanning 2015-2025
+**Total Papers:** X papers spanning 2020-2025
 
 ## Research Areas
 
