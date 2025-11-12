@@ -61,7 +61,10 @@ Papers analyzing concurrent programming and memory safety guarantees.
 5. **[`Safe4U: Identifying Unsound Safe Encapsulations of Unsafe Calls in Rust using LLMs`](https://doi.org/10.1145/3728890)**  
    Li, Huan, Bei Wang, Xing Hu, and Xin Xia, *Proceedings of the ACM on Software Engineering 2, no. ISSTA (2025): 457-480*
 
-6. 
+6. **[`Stack Filtering: Elevating Precision and Efficiency in Rust Pointer Analysis`](https://doi.org/10.1145/3728890)**  
+   Li, Wei, Dongjie He, Wenguang Chen, and Jingling Xue, *Proceedings of the 23rd ACM/IEEE International Symposium on Code Generation and Optimization (2025), pp. 331-346*
+
+7. 
 
 ---
 
