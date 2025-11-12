@@ -67,7 +67,8 @@ Papers analyzing concurrent programming and memory safety guarantees.
 
 ### 2024
 
-*(Add papers here)*
+1. **[`Validating Memory Safety in Rust Binaries`](https://arxiv.org/pdf/2506.15648)**  
+   Louka, Antonis, Antreas Dionysiou, and Elias Athanasopoulos. (2024), *In Proceedings of the 17th European Workshop on Systems Security, pp. 8-14.
 
 ---
 
