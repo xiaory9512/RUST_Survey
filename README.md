@@ -88,7 +88,10 @@ Papers analyzing concurrent programming and memory safety guarantees.
 6. **[`RustSan Retrofitting AddressSanitizer for Efficient Sanitization of Rust`](https://www.usenix.org/conference/usenixsecurity24/presentation/cho-kyuwon)**  
    Cho, Kyuwon and Kim, Jongyoon and Duy, Kha Dinh and Lim, Hajeong and Lee, Hojoon, (2024), *USENIX Security (2024) (pp. 3729-3746)*.
 
-7. 
+7. **[`FRIES: Fuzzing Rust Library Interactions via Efficient Ecosystem-Guided Target Generation`](https://doi.org/10.1145/3650212.368034)**  
+   Yin, Xizhe and Feng, Yang and Shi, Qingkai and Liu, Zixi and Liu, Hongwang and Xu, Baowen, (2024), *Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (2024) (pp. 1137-1148)*.
+
+8. 
 
 ---
 
