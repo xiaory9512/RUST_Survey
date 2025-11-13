@@ -80,7 +80,10 @@ Papers analyzing concurrent programming and memory safety guarantees.
    Qin, Boqin and Chen, Yilun and Liu, Haopeng and Zhang, Hua and Wen, Qiaoyan and Song, Linhai and Zhang, Yiying, *IEEE Transactions on Software Engineering 50, no. 6 (2024): 1306-1324*
 
 4. **[`Understanding the Challenges in Detecting Vulnerabilities of Rust Applications`](https://ieeexplore.ieee.org/abstract/document/10734062)**  
-   Stephens, Diane B., Kawkab Aldoshan, and Mustakimur Rahman Khandaker. (2024), *IEEE Secure Development Conference (SecDev) (pp. 54-63)*.
+   Stephens, Diane B., Kawkab Aldoshan, and Mustakimur Rahman Khandaker, (2024), *IEEE Secure Development Conference (SecDev) (pp. 54-63)*.
+
+5. **[`Yuga: Automatically Detecting Lifetime Annotation Bugs in the Rust Language`]({http://dx.doi.org/10.1109/TSE.2024.3447671)**  
+   Nitin, Vikram and Mulhern, Anne and Arora, Sanjay and Ray, Baishakhi, (2024), *IEEE Transactions on Software Engineering (pp. 2602–2613)*.
 
 ---
 
