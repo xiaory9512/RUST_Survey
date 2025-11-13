@@ -86,7 +86,9 @@ Papers analyzing concurrent programming and memory safety guarantees.
    Nitin, Vikram and Mulhern, Anne and Arora, Sanjay and Ray, Baishakhi, (2024), *IEEE Transactions on Software Engineering (pp. 2602–2613)*.
 
 6. **[`RustSan Retrofitting AddressSanitizer for Efficient Sanitization of Rust`](https://www.usenix.org/conference/usenixsecurity24/presentation/cho-kyuwon)**  
-   Cho, Kyuwon and Kim, Jongyoon and Duy, Kha Dinh and Lim, Hajeong and Lee, Hojoon, (2024), *USENIX Security 24 (pp. 3729-3746)*.
+   Cho, Kyuwon and Kim, Jongyoon and Duy, Kha Dinh and Lim, Hajeong and Lee, Hojoon, (2024), *USENIX Security (2024) (pp. 3729-3746)*.
+
+7. 
 
 ---
 
@@ -96,14 +98,21 @@ Papers analyzing concurrent programming and memory safety guarantees.
    Zheng, Xiaoye, Zhiyuan Wan, Yun Zhang, Rui Chang, and David Lo, *ACM Transactions on Software Engineering and Methodology 33, no. 2 (2023): 1-30.*
 
 2. **[`CrabSandwich: Fuzzing Rust with Rust (Registered Report)`](https://doi.org/10.1145/3605157.3605176)**  
-   Crump, Addison, Dongjia Zhang, Syeda Mahnur Asif, Dominik Maier, Andrea Fioraldi, Thorsten Holz, and Davide Balzarotti,  *In Proceedings of the 2nd International Fuzzing Workshop (2023): 39-46.*
- 
-   
+   Crump, Addison, Dongjia Zhang, Syeda Mahnur Asif, Dominik Maier, Andrea Fioraldi, Thorsten Holz, and Davide Balzarotti,  *Proceedings of the 2nd International Fuzzing Workshop (2023): 39-46.*
+
+3. **[`SafeDrop: Detecting memory deallocation bugs of rust programs via static data-flow analysis`](https://doi.org/10.1145/3542948)**  
+   Cui, Mohan and Chen, Chengjun and Xu, Hui and Zhou, Yangfan, *ACM Transactions on Software Engineering and Methodology (2023): 1-21.*
+
+4. **[`TRust: A compilation framework for in-process isolation to protect safe rust against untrusted code`](https://www.usenix.org/conference/usenixsecurity23/presentation/bang)**  
+   Bang, Inyoung and Kayondo, Martin and Moon, HyunGon and Paek, Yunheung, *USENIX Security (2023): (pp. 6947-6964).*
+
+5. 
 ---
 
 ### 2022
 
-*(Add papers here)*
+1. 
+
 
 ---
 
