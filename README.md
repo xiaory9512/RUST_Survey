@@ -137,6 +137,12 @@ Papers analyzing concurrent programming and memory safety guarantees.
    Zhu, Shuofei and Zhang, Ziyi and Qin, Boqin and Xiong, Aiping and Song, Linhai, *Proceedings of the 44th International Conference on Software Engineering (2022), pp. 1269-1281.*
 
 
+### 2021
+
+1. **[`Rudra: finding memory safety bugs in rust at the ecosystem scale`](https://doi.org/10.1145/3477132.3483570)**  
+   Bae, Yechan and Kim, Youngsuk and Askar, Ammar and Lim, Jungwon and Kim, Taesoo, *Proceedings of the ACM SIGOPS 28th Symposium on Operating Systems Principles (2021), pp. 84-99.*
+
+
 
 ---
 
