@@ -105,6 +105,11 @@ Papers analyzing concurrent programming and memory safety guarantees.
 
 9. **[`Semi-Automated Verification of Interior Unsafe Code Encapsulation in Real-World Rust Systems`](https://doi.org/10.1145/3691620.3695373)**  
    Rao, Zihao, *Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering 2024), pp. 2435-2437*.
+
+10. **[`Erasan: Efficient rust address sanitizer`](https://ieeexplore.ieee.org/document/10646812)**  
+   Min, Jiun and Yu, Dongyeon and Jeong, Seongyun and Song, Dokyung and Jeon, Yuseok, *IEEE Symposium on Security and Privacy (SP) 2024), pp. 4053-4068*.
+
+
    
 ---
 
