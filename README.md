@@ -103,7 +103,9 @@ Papers analyzing concurrent programming and memory safety guarantees.
 8. **[`Rust-twins: Automatic rust compiler testing through program mutation and dual macros generation`](https://doi.org/10.1145/3691620.3695059)**  
    Yang, Wenzhang and Gao, Cuifeng and Liu, Xiaoyuan and Li, Yuekang and Xue, Yinxing, *Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering 2024), pp. 631-642*.
 
-
+9. **[`Semi-Automated Verification of Interior Unsafe Code Encapsulation in Real-World Rust Systems`](https://doi.org/10.1145/3691620.3695373)**  
+   Rao, Zihao, *Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering 2024), pp. 2435-2437*.
+   
 ---
 
 ### 2023
