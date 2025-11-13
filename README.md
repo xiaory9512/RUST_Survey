@@ -64,7 +64,10 @@ Papers analyzing concurrent programming and memory safety guarantees.
 6. **[`Stack Filtering: Elevating Precision and Efficiency in Rust Pointer Analysis`](https://doi.org/10.5281/zenodo.13634201)**  
    Li, Wei, Dongjie He, Wenguang Chen, and Jingling Xue, *Proceedings of the 23rd ACM/IEEE International Symposium on Code Generation and Optimization (2025), pp. 331-346*
 
-7. 
+7. **[`Targeted Fuzzing for Unsafe Rust Code: Leveraging Selective Instrumentation`](https://arxiv.org/abs/2505.02464)**  
+   Paa{\ss}en, David and Giesen, Jens-Rene and Davi, Lucas, *arXiv preprint arXiv:2505.02464 (2025)*
+
+
 
 ---
 
