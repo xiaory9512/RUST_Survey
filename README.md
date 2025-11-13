@@ -119,14 +119,16 @@ Papers analyzing concurrent programming and memory safety guarantees.
    Bang, Inyoung and Kayondo, Martin and Moon, HyunGon and Paek, Yunheung, *USENIX Security (2023): (pp. 6947-6964).*
 
 5. **[`Friend or foe inside? exploring in-process isolation to maintain memory safety for unsafe rust`](https://arxiv.org/abs/2306.08127)**  
-   G{u}lmez, Merve and Nyman, Thomas and Baumann, Christoph and M{u}hlberg, Jan Tobias, *2023 IEEE Secure Development Conference (SecDev) (2023): (pp. 54-66).*
+   G{u}lmez, Merve and Nyman, Thomas and Baumann, Christoph and M{u}hlberg, Jan Tobias, *IEEE Secure Development Conference (SecDev) (2023): (pp. 54-66).*
    
  
 ---
 
 ### 2022
 
-1. 
+1. **[`Learning and programming challenges of rust: A mixed-methods study`](https://doi.org/10.1145/3510003.3510164)**  
+   Zhu, Shuofei and Zhang, Ziyi and Qin, Boqin and Xiong, Aiping and Song, Linhai, *Proceedings of the 44th International Conference on Software Engineering (2022): (pp. 1269-1281).*
+
 
 
 ---
