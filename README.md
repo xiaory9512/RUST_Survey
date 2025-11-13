@@ -82,10 +82,10 @@ Papers analyzing concurrent programming and memory safety guarantees.
 4. **[`Understanding the Challenges in Detecting Vulnerabilities of Rust Applications`](https://ieeexplore.ieee.org/abstract/document/10734062)**  
    Stephens, Diane B., Kawkab Aldoshan, and Mustakimur Rahman Khandaker, (2024), *IEEE Secure Development Conference (SecDev) (pp. 54-63)*.
 
-5. **[`Yuga Automatically Detecting Lifetime Annotation Bugs in the Rust Language`]({http://dx.doi.org/10.1109/TSE.2024.3447671)**  
+5. **[`Yuga Automatically Detecting Lifetime Annotation Bugs in the Rust Language`](https://arxiv.org/abs/2310.08507)**  
    Nitin, Vikram and Mulhern, Anne and Arora, Sanjay and Ray, Baishakhi, (2024), *IEEE Transactions on Software Engineering (pp. 2602–2613)*.
 
-6. **[`RustSan Retrofitting AddressSanitizer for Efficient Sanitization of Rust`]({http://dx.doi.org/10.1109/TSE.2024.3447671)**  
+6. **[`RustSan Retrofitting AddressSanitizer for Efficient Sanitization of Rust`](https://www.usenix.org/conference/usenixsecurity24/presentation/cho-kyuwon)**  
    Cho, Kyuwon and Kim, Jongyoon and Duy, Kha Dinh and Lim, Hajeong and Lee, Hojoon, (2024), *USENIX Security 24 (pp. 3729-3746)*.
 
 ---
