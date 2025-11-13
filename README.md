@@ -109,8 +109,8 @@ Papers analyzing concurrent programming and memory safety guarantees.
 4. **[`TRust: A compilation framework for in-process isolation to protect safe rust against untrusted code`](https://www.usenix.org/conference/usenixsecurity23/presentation/bang)**  
    Bang, Inyoung and Kayondo, Martin and Moon, HyunGon and Paek, Yunheung, *USENIX Security (2023): (pp. 6947-6964).*
 
-5. **[`Friend or foe inside? exploring in-process isolation to maintain memory safety for unsafe rust`](https://www.usenix.org/conference/usenixsecurity23/presentation/bang)**  
-   G{\"u}lmez, Merve and Nyman, Thomas and Baumann, Christoph and M{\"u}hlberg, Jan Tobias, *2023 IEEE Secure Development Conference (SecDev) (2023): (pp. 54-66).*
+5. **[`Friend or foe inside? exploring in-process isolation to maintain memory safety for unsafe rust`](https://arxiv.org/abs/2306.08127)**  
+   G{u}lmez, Merve and Nyman, Thomas and Baumann, Christoph and M{u}hlberg, Jan Tobias, *2023 IEEE Secure Development Conference (SecDev) (2023): (pp. 54-66).*
    
  
 ---
