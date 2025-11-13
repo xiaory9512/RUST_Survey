@@ -128,9 +128,6 @@ Papers analyzing concurrent programming and memory safety guarantees.
 6. **[`Using LLMs to fix compilation errors in Rust code`](https://arxiv.org/abs/2308.05177)**  
    Deligiannis, Pantazis and Lal, Akash and Mehrotra, Nikita and Poddar, Rishi and Rastogi, Aseem, *IEEE/ACM 47th International Conference on Software Engineering (ICSE) (2023), pp. 3097-3109*
 
-
-   
-https://doi.org/10.48550/arXiv.2308.05177
  
 ---
 
