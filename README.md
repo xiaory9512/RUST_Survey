@@ -93,12 +93,14 @@ Papers analyzing concurrent programming and memory safety guarantees.
    Nitin, Vikram and Mulhern, Anne and Arora, Sanjay and Ray, Baishakhi, (2024), *IEEE Transactions on Software Engineering (pp. 2602–2613)*.
 
 6. **[`RustSan Retrofitting AddressSanitizer for Efficient Sanitization of Rust`](https://www.usenix.org/conference/usenixsecurity24/presentation/cho-kyuwon)**  
-   Cho, Kyuwon and Kim, Jongyoon and Duy, Kha Dinh and Lim, Hajeong and Lee, Hojoon, (2024), *USENIX Security (2024) (pp. 3729-3746)*.
+   Cho, Kyuwon and Kim, Jongyoon and Duy, Kha Dinh and Lim, Hajeong and Lee, Hojoon, (2024), *USENIX Security (pp. 3729-3746)*.
 
 7. **[`FRIES: Fuzzing Rust Library Interactions via Efficient Ecosystem-Guided Target Generation`](https://doi.org/10.1145/3650212.368034)**  
-   Yin, Xizhe and Feng, Yang and Shi, Qingkai and Liu, Zixi and Liu, Hongwang and Xu, Baowen, (2024), *Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (2024) (pp. 1137-1148)*.
+   Yin, Xizhe and Feng, Yang and Shi, Qingkai and Liu, Zixi and Liu, Hongwang and Xu, Baowen, (2024), *Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (pp. 1137-1148)*.
 
-8. 
+8. **[`Rust-twins: Automatic rust compiler testing through program mutation and dual macros generation`](https://doi.org/10.1145/3691620.3695059)**  
+   Yang, Wenzhang and Gao, Cuifeng and Liu, Xiaoyuan and Li, Yuekang and Xue, Yinxing, (2024), *Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering (pp. 631-642)*.
+
 
 ---
 
