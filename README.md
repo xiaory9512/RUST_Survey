@@ -73,6 +73,10 @@ Papers analyzing concurrent programming and memory safety guarantees.
 9. **[`From Rust Till Run: Extending Memory Safety From Rust to Cryptographic Assembly`](https://doi.org/10.1145/3764860.3768333)**  
    Jiang, Renshuang and Dong, Pan and Duan, Zhenling and Shi, Yu and Fang, Xiaoxiang and Ding, Yan and Ma, Jun and Zhao, Shuai and Jiang, Zhe, *Proceedings of the 13th Workshop on Programming Languages and Operating Systems (2025), pp. 108-117*
 
+10. **[`RustAssistant: Using LLMs to fix compilation errors in Rust code`](https://doi.org/10.1109/ICSE55347.2025.00022)**  
+   Deligiannis, Pantazis and Lal, Akash and Mehrotra, Nikita and Poddar, Rishi and Rastogi, Aseem, *2025 IEEE/ACM 47th International Conference on Software Engineering (ICSE) (2025), pp. 3097-3109*
+
+
 
 ---
 
