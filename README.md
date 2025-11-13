@@ -47,10 +47,10 @@ Papers analyzing concurrent programming and memory safety guarantees.
 ## 2025
 
 1. **[`TYPEPULSE: Detecting Type Confusion Bugs in Rust Programs`](https://www.usenix.org/conference/usenixsecurity25/presentation/chen-hung-mao)**  
-   Chen, H.-M., He, X., Wang, S., Zhang, X., & Sun, K. (2025), *USENIX Security 2025*  
+   Chen, H.-M., He, X., Wang, S., Zhang, X., & Sun, K., *USENIX Security (2025)*  
    
 2. **[`Autoverus: Automated Proof Generation for Rust Code`](https://dl.acm.org/doi/pdf/10.1145/3763174)**  
-   Yang, C., Li, X., Misu, M. R. H., et al. (2025),  *OOPSLA 2025*, 9(OOPSLA2), 3454-3482  
+   Yang, C., Li, X., Misu, M. R. H., et al.,  *OOPSLA 2025*, 9(OOPSLA2), 3454-3482  
 
 3. **[`Benefits and drawbacks of adopting a secure programming language: Rust as a case study`](https://arxiv.org/pdf/2506.15648)**  
    Androutsopoulos, Georgios and Bianchi, Antonio. (2025), *arXiv preprint*, arXiv:2508.04295
@@ -83,28 +83,28 @@ Papers analyzing concurrent programming and memory safety guarantees.
 ### 2024
 
 1. **[`Validating Memory Safety in Rust Binaries`](https://arxiv.org/pdf/2506.15648)**  
-   Louka, Antonis, Antreas Dionysiou, and Elias Athanasopoulos. (2024), *IEEE Proceedings of the 17th European Workshop on Systems Security, pp. 8-14*
+   Louka, Antonis, Antreas Dionysiou, and Elias Athanasopoulos, *IEEE Proceedings of the 17th European Workshop on Systems Security (2024), pp. 8-14*
 
 2. **[`Crabtree: Rust API Test Synthesis Guided by Coverage and Type`](https://doi.org/10.5281/zenodo.13626235)**  
-   Takashima, Yoshiki, Chanhee Cho, Ruben Martins, Limin Jia, and Corina S. Păsăreanu. (2024), *Proceedings of the ACM on Programming Languages 8, no. OOPSLA2 (2024): 618-647.*
+   Takashima, Yoshiki, Chanhee Cho, Ruben Martins, Limin Jia, and Corina S. Păsăreanu, *Proceedings of the ACM on Programming Languages 8, no. OOPSLA2 (2024): 618-647.*
    
 3. **[`Understanding and detecting real-world safety issues in Rust`](https://ieeexplore.ieee.org/abstract/document/10479047)**  
    Qin, Boqin and Chen, Yilun and Liu, Haopeng and Zhang, Hua and Wen, Qiaoyan and Song, Linhai and Zhang, Yiying, *IEEE Transactions on Software Engineering 50, no. 6 (2024): 1306-1324*
 
 4. **[`Understanding the Challenges in Detecting Vulnerabilities of Rust Applications`](https://ieeexplore.ieee.org/abstract/document/10734062)**  
-   Stephens, Diane B., Kawkab Aldoshan, and Mustakimur Rahman Khandaker, (2024), *IEEE Secure Development Conference (SecDev) (pp. 54-63)*.
+   Stephens, Diane B., Kawkab Aldoshan, and Mustakimur Rahman Khandaker, *IEEE Secure Development Conference (SecDev), (2024), pp. 54-63*.
 
 5. **[`Yuga Automatically Detecting Lifetime Annotation Bugs in the Rust Language`](https://arxiv.org/abs/2310.08507)**  
-   Nitin, Vikram and Mulhern, Anne and Arora, Sanjay and Ray, Baishakhi, (2024), *IEEE Transactions on Software Engineering (pp. 2602–2613)*.
+   Nitin, Vikram and Mulhern, Anne and Arora, Sanjay and Ray, Baishakhi, *IEEE Transactions on Software Engineering 2024), pp. 2602–2613*.
 
 6. **[`RustSan Retrofitting AddressSanitizer for Efficient Sanitization of Rust`](https://www.usenix.org/conference/usenixsecurity24/presentation/cho-kyuwon)**  
-   Cho, Kyuwon and Kim, Jongyoon and Duy, Kha Dinh and Lim, Hajeong and Lee, Hojoon, (2024), *USENIX Security (pp. 3729-3746)*.
+   Cho, Kyuwon and Kim, Jongyoon and Duy, Kha Dinh and Lim, Hajeong and Lee, Hojoon, 2024, *USENIX Security 2024), pp. 3729-3746*.
 
 7. **[`FRIES: Fuzzing Rust Library Interactions via Efficient Ecosystem-Guided Target Generation`](https://doi.org/10.1145/3650212.368034)**  
-   Yin, Xizhe and Feng, Yang and Shi, Qingkai and Liu, Zixi and Liu, Hongwang and Xu, Baowen, (2024), *Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (pp. 1137-1148)*.
+   Yin, Xizhe and Feng, Yang and Shi, Qingkai and Liu, Zixi and Liu, Hongwang and Xu, Baowen, *Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis 2024), pp. 1137-1148*.
 
 8. **[`Rust-twins: Automatic rust compiler testing through program mutation and dual macros generation`](https://doi.org/10.1145/3691620.3695059)**  
-   Yang, Wenzhang and Gao, Cuifeng and Liu, Xiaoyuan and Li, Yuekang and Xue, Yinxing, (2024), *Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering (pp. 631-642)*.
+   Yang, Wenzhang and Gao, Cuifeng and Liu, Xiaoyuan and Li, Yuekang and Xue, Yinxing, *Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering 2024), pp. 631-642*.
 
 
 ---
@@ -112,19 +112,19 @@ Papers analyzing concurrent programming and memory safety guarantees.
 ### 2023
 
 1. **[`A closer look at the security risks in the rust ecosystem`](https://doi.org/10.1145/3624738)**  
-   Zheng, Xiaoye, Zhiyuan Wan, Yun Zhang, Rui Chang, and David Lo, *ACM Transactions on Software Engineering and Methodology 33, no. 2 (2023): 1-30.*
+   Zheng, Xiaoye, Zhiyuan Wan, Yun Zhang, Rui Chang, and David Lo, *ACM Transactions on Software Engineering and Methodology 33, no. 2 (2023), pp. 1-30.*
 
 2. **[`CrabSandwich: Fuzzing Rust with Rust (Registered Report)`](https://doi.org/10.1145/3605157.3605176)**  
-   Crump, Addison, Dongjia Zhang, Syeda Mahnur Asif, Dominik Maier, Andrea Fioraldi, Thorsten Holz, and Davide Balzarotti,  *Proceedings of the 2nd International Fuzzing Workshop (2023): 39-46.*
+   Crump, Addison, Dongjia Zhang, Syeda Mahnur Asif, Dominik Maier, Andrea Fioraldi, Thorsten Holz, and Davide Balzarotti,  *Proceedings of the 2nd International Fuzzing Workshop (2023), pp. 39-46.*
 
 3. **[`SafeDrop: Detecting memory deallocation bugs of rust programs via static data-flow analysis`](https://doi.org/10.1145/3542948)**  
-   Cui, Mohan and Chen, Chengjun and Xu, Hui and Zhou, Yangfan, *ACM Transactions on Software Engineering and Methodology (2023): 1-21.*
+   Cui, Mohan and Chen, Chengjun and Xu, Hui and Zhou, Yangfan, *ACM Transactions on Software Engineering and Methodology (2023), pp. 1-21.*
 
 4. **[`TRust: A compilation framework for in-process isolation to protect safe rust against untrusted code`](https://www.usenix.org/conference/usenixsecurity23/presentation/bang)**  
-   Bang, Inyoung and Kayondo, Martin and Moon, HyunGon and Paek, Yunheung, *USENIX Security (2023): (pp. 6947-6964).*
+   Bang, Inyoung and Kayondo, Martin and Moon, HyunGon and Paek, Yunheung, *USENIX Security (2023), pp. 6947-6964.*
 
 5. **[`Friend or foe inside? exploring in-process isolation to maintain memory safety for unsafe rust`](https://arxiv.org/abs/2306.08127)**  
-   G{u}lmez, Merve and Nyman, Thomas and Baumann, Christoph and M{u}hlberg, Jan Tobias, *IEEE Secure Development Conference (SecDev) (2023): (pp. 54-66).*
+   G{u}lmez, Merve and Nyman, Thomas and Baumann, Christoph and M{u}hlberg, Jan Tobias, *IEEE Secure Development Conference (SecDev) (2023), pp. 54-66.*
    
  
 ---
@@ -132,7 +132,7 @@ Papers analyzing concurrent programming and memory safety guarantees.
 ### 2022
 
 1. **[`Learning and programming challenges of rust: A mixed-methods study`](https://doi.org/10.1145/3510003.3510164)**  
-   Zhu, Shuofei and Zhang, Ziyi and Qin, Boqin and Xiong, Aiping and Song, Linhai, *Proceedings of the 44th International Conference on Software Engineering (2022): (pp. 1269-1281).*
+   Zhu, Shuofei and Zhang, Ziyi and Qin, Boqin and Xiong, Aiping and Song, Linhai, *Proceedings of the 44th International Conference on Software Engineering (2022), pp. 1269-1281.*
 
 
 
