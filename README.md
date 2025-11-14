@@ -151,6 +151,10 @@ Papers analyzing concurrent programming and memory safety guarantees.
 1. **[`Rudra: finding memory safety bugs in rust at the ecosystem scale`](https://doi.org/10.1145/3477132.3483570)**  
    Bae, Yechan and Kim, Youngsuk and Askar, Ammar and Lim, Jungwon and Kim, Taesoo, *Proceedings of the ACM SIGOPS 28th Symposium on Operating Systems Principles (2021), pp. 84-99.*
 
+2. **[`MirChecker: detecting bugs in Rust programs via static analysis`](https://doi.org/10.1145/3460120.3484541)**  
+   Li, Zhuohua and Wang, Jincheng and Sun, Mingshen and Lui, John CSo, *Proceedings of the ACM SIGSAC conference on computer and communications security (2021), pp. 2183-2196.*
+
+
 
 
 ---
