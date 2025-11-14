@@ -137,6 +137,10 @@ Papers analyzing concurrent programming and memory safety guarantees.
 6. **[`Using LLMs to fix compilation errors in Rust code`](https://arxiv.org/abs/2308.05177)**  
    Deligiannis, Pantazis and Lal, Akash and Mehrotra, Nikita and Poddar, Rishi and Rastogi, Aseem, *IEEE/ACM 47th International Conference on Software Engineering (ICSE) (2023), pp. 3097-3109*
 
+7. **[`A grounded conceptual model for ownership types in rust`](https://doi.org/10.1145/3622841)**  
+   Deligiannis, Pantazis and Lal, Akash and Mehrotra, Nikita and Poddar, Rishi and Rastogi, Aseem, *Proceedings of the ACM on Programming Languages, OOPSLA2 (2023), pp. 1224-1252*
+
+
  
 ---
 
