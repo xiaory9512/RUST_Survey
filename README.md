@@ -149,6 +149,10 @@ Papers analyzing concurrent programming and memory safety guarantees.
 1. **[`Learning and programming challenges of rust: A mixed-methods study`](https://doi.org/10.1145/3510003.3510164)**  
    Zhu, Shuofei and Zhang, Ziyi and Qin, Boqin and Xiong, Aiping and Song, Linhai, *Proceedings of the 44th International Conference on Software Engineering (2022), pp. 1269-1281.*
 
+2. **[`Modular information flow through ownership`](https://doi.org/10.1145/3519939.3523445)**  
+   Crichton, Will and Patrignani, Marco and Agrawala, Maneesh and Hanrahan, Pat, *Proceedings of the 43rd ACM SIGPLAN International Conference on Programming Language Design and Implementation (2022), pp. 1-14.*
+
+
 
 ### 2021
 
