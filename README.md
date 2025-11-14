@@ -113,6 +113,8 @@ Papers analyzing concurrent programming and memory safety guarantees.
 10. **[`Erasan: Efficient rust address sanitizer`](https://ieeexplore.ieee.org/document/10646812)**  
    Min, Jiun and Yu, Dongyeon and Jeong, Seongyun and Song, Dokyung and Jeon, Yuseok, *IEEE Symposium on Security and Privacy (SP) 2024), pp. 4053-4068*.
 
+11. **[`Cocoon: Static information flow control in rust`](https://doi.org/10.1145/3649817)**  
+   Lamba, Ada and Taylor, Max and Beardsley, Vincent and Bambeck, Jacob and Bond, Michael D and Lin, Zhiqiang, *Proceedings of the ACM on Programming Languages, OOPSLA1 (2024), pp. 166-193*.
 
    
 ---
