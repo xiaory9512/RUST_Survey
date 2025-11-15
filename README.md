@@ -70,7 +70,7 @@ Papers analyzing concurrent programming and memory safety guarantees.
 8. **[`Unlocking a New Rust Programming Experience: Fast and Slow Thinking with LLMs to Conquer Undefined Behaviors`](https://arxiv.org/abs/2503.023354)**  
    Jiang, Renshuang and Dong, Pan and Duan, Zhenling and Shi, Yu and Fang, Xiaoxiang and Ding, Yan and Ma, Jun and Zhao, Shuai and Jiang, Zhe, *arXiv preprint arXiv:2503.02335 (2025)*
 
-9. **[`From Rust Till Run: Extending Memory Safety From Rust to Cryptographic Assembly`](https://doi.org/10.1145/3764860.376833)**  
+9. **[`From Rust Till Run: Extending Memory Safety From Rust to Cryptographic Assembly`](https://dl.acm.org/doi/abs/10.1145/3764860.3768333)**  
    Caspin, Shai and Pimpalkhare, Nikhil and Levy, Amit, *Proceedings of the 13th Workshop on Programming Languages and Operating Systems (2025), pp. 108-117*
 
 10. **[`Place Capability Graphs: A General-Purpose Model of Rust’s Ownership and Borrowing Guarantee`](https://doi.org/10.1145/3763122)**  
