@@ -70,12 +70,14 @@ Papers analyzing concurrent programming and memory safety guarantees.
 8. **[`Unlocking a New Rust Programming Experience: Fast and Slow Thinking with LLMs to Conquer Undefined Behaviors`](https://arxiv.org/abs/2503.023354)**  
    Jiang, Renshuang and Dong, Pan and Duan, Zhenling and Shi, Yu and Fang, Xiaoxiang and Ding, Yan and Ma, Jun and Zhao, Shuai and Jiang, Zhe, *arXiv preprint arXiv:2503.02335 (2025)*
 
-9. **[`From Rust Till Run: Extending Memory Safety From Rust to Cryptographic Assembly`](https://doi.org/10.1145/3764860.3768333)**  
-   Jiang, Renshuang and Dong, Pan and Duan, Zhenling and Shi, Yu and Fang, Xiaoxiang and Ding, Yan and Ma, Jun and Zhao, Shuai and Jiang, Zhe, *arXiv preprint arXiv:2504.14500 (2025)*
+9. **[`From Rust Till Run: Extending Memory Safety From Rust to Cryptographic Assembly`](https://doi.org/10.1145/3764860.376833)**  
+   Caspin, Shai and Pimpalkhare, Nikhil and Levy, Amit, *Proceedings of the 13th Workshop on Programming Languages and Operating Systems (2025), pp. 108-117*
 
 10. **[`Place Capability Graphs: A General-Purpose Model of Rust’s Ownership and Borrowing Guarantee`](https://doi.org/10.1145/3763122)**  
    Grannan, Zachary and Bily, Aurel and Fiala, Jonavs and Geer, Jasper and de Medeiros, Markus and Muller, Peter and Summers, Alexander J, *Proceedings of the 13th Workshop on Programming Languages and Operating Systems, OOPSLA2 (2025), pp. 2002-2029*
 
+11. **[`Carapace: Static--Dynamic Information Flow Control in Rust`](https://doi.org/10.5281/zenodo.14915697)**  
+   Beardsley, Vincent and Xiong, Chris and Lamba, Ada and Bond, Michael D, *Proceedings of the ACM on Programming Languages, OOPSLA1 (2025), pp. 364-392*
 
 
 ---
