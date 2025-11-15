@@ -79,6 +79,9 @@ Papers analyzing concurrent programming and memory safety guarantees.
 11. **[`Carapace: Static--Dynamic Information Flow Control in Rust`](https://doi.org/10.5281/zenodo.14915697)**  
    Beardsley, Vincent and Xiong, Chris and Lamba, Ada and Bond, Michael D, *Proceedings of the ACM on Programming Languages, OOPSLA1 (2025), pp. 364-392*
 
+12. **[`Paralegal: Practical static analysis for privacy bugs`](https://www.usenix.org/conference/osdi25/presentation/adam)**  
+   Adam, Justus and Zech, Carolyn and Zhu, Livia and Rajesh, Sreshtaa and Harbison, Nathan and Jethwa, Mithi and Crichton, Will and Krishnamurthi, Shriram and Schwarzkopf, Malte, *19th USENIX Symposium on Operating Systems Design and Implementation (2025), pp. 957-978*
+
 
 ---
 
