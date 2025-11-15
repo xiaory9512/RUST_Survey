@@ -67,7 +67,7 @@ Papers analyzing concurrent programming and memory safety guarantees.
 7. **[`Targeted Fuzzing for Unsafe Rust Code: Leveraging Selective Instrumentation`](https://arxiv.org/abs/2505.02464)**  
    Paa{\ss}en, David and Giesen, Jens-Rene and Davi, Lucas, *arXiv preprint arXiv:2505.02464 (2025)*
 
-8. **[`Unlocking a New Rust Programming Experience: Fast and Slow Thinking with LLMs to Conquer Undefined Behaviors`](https://arxiv.org/abs/2503.023354)**  
+8. **[`Unlocking a New Rust Programming Experience: Fast and Slow Thinking with LLMs to Conquer Undefined Behaviors`](https://arxiv.org/abs/2503.02335)**  
    Jiang, Renshuang and Dong, Pan and Duan, Zhenling and Shi, Yu and Fang, Xiaoxiang and Ding, Yan and Ma, Jun and Zhao, Shuai and Jiang, Zhe, *arXiv preprint arXiv:2503.02335 (2025)*
 
 9. **[`From Rust Till Run: Extending Memory Safety From Rust to Cryptographic Assembly`](https://dl.acm.org/doi/abs/10.1145/3764860.3768333)**  
