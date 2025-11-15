@@ -83,6 +83,8 @@ Papers analyzing concurrent programming and memory safety guarantees.
    Adam, Justus and Zech, Carolyn and Zhu, Livia and Rajesh, Sreshtaa and Harbison, Nathan and Jethwa, Mithi and Crichton, Will and Krishnamurthi, Shriram and Schwarzkopf, Malte, *19th USENIX Symposium on Operating Systems Design and Implementation (2025), pp. 957-978*
 
 
+
+
 ---
 
 ### 2024
@@ -120,7 +122,9 @@ Papers analyzing concurrent programming and memory safety guarantees.
 11. **[`Cocoon: Static information flow control in rust`](https://doi.org/10.1145/3649817)**  
    Lamba, Ada and Taylor, Max and Beardsley, Vincent and Bambeck, Jacob and Bond, Michael D and Lin, Zhiqiang, *Proceedings of the ACM on Programming Languages, OOPSLA1 (2024), pp. 166-193*.
 
-   
+12. **[`Static-Dynamic Information Flow Control in Rust`](https://doi.org/10.1145/3689491.3691820)**  
+   Beardsley, Vincent, *Companion Proceedings of the 2024 ACM SIGPLAN International Conference on Systems, Programming, Languages, and Applications: Software for Humanity (2025), pp. 16-18*
+ 
 ---
 
 ### 2023
