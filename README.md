@@ -164,15 +164,8 @@ Papers analyzing concurrent programming and memory safety guarantees.
 3. **[`Unsafe's Betrayal: Abusing Unsafe Rust in Binary Reverse Engineering via Machine Learning`](https://doi.org/10.48550/arXiv.2211.00111)**  
    Park, Sangdon and Cheng, Xiang and Kim, Taesoo, *arXiv preprint arXiv:2211.00111 (2022).*
 
-
-https://doi.org/10.48550/arXiv.2211.00111
-
-   @article{park2022unsafe,
-  title={},
-  author={Park, Sangdon and Cheng, Xiang and Kim, Taesoo},
-  journal={arXiv preprint arXiv:2211.00111},
-  year={2022}
-}
+4. **[`RustHornBelt: a semantic foundation for functional verification of Rust programs with unsafe code`](https://doi.org/10.1145/3519939.3523704)**  
+   Matsushita, Yusuke and Denis, Xavier and Jourdan, Jacques-Henri and Dreyer, Derek, *Proceedings of the 43rd ACM SIGPLAN International Conference on Programming Language Design and Implementation (2022), pp. 841-856.*
 
 
 
