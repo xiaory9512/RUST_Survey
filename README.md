@@ -195,6 +195,8 @@ Papers analyzing concurrent programming and memory safety guarantees.
 2. **[`Understanding memory and thread safety practices and issues in real-world Rust programs`](https://doi.org/10.1145/3385412.3386036)**  
    Qin, Boqin and Chen, Yilun and Yu, Zeming and Song, Linhai and Zhang, Yiying, *Proceedings of the 41st ACM SIGPLAN Conference on Programming Language Design and Implementation (2020), pp. 763-779.*
 
+3. **[`How do programmers use unsafe rust?`](https://doi.org/10.1145/3428204)**  
+   Astrauskas, Vytautas and Matheja, Christoph and Poli, Federico and Muller, Peter and Summers, Alexander J *{Proceedings of the ACM on Programming Languages (OOPSLA), (2020), pp. 1-27.*
 
 
 ---
