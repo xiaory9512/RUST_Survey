@@ -181,6 +181,10 @@ Papers analyzing concurrent programming and memory safety guarantees.
 1. **[`Is rust used safely by software developers?`](https://doi.org/10.1145/3377811.3380413)**  
    Evans, Ana Nora and Campbell, Bradford and Soffa, Mary Lou, *Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering (2020), pp. 246-257.*
 
+2. **[`Understanding memory and thread safety practices and issues in real-world Rust programs`](https://doi.org/10.1145/3385412.3386036)**  
+   Qin, Boqin and Chen, Yilun and Yu, Zeming and Song, Linhai and Zhang, Yiying, *Proceedings of the 41st ACM SIGPLAN Conference on Programming Language Design and Implementation (2020), pp. 763-779.*
+
+
 
 ---
 
