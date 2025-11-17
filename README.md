@@ -149,8 +149,7 @@ Papers analyzing concurrent programming and memory safety guarantees.
 
 7. **[`A grounded conceptual model for ownership types in rust`](https://doi.org/10.1145/3622841)**  
    Deligiannis, Pantazis and Lal, Akash and Mehrotra, Nikita and Poddar, Rishi and Rastogi, Aseem, *Proceedings of the ACM on Programming Languages, OOPSLA2 (2023), pp. 1224-1252*
-
-
+   
  
 ---
 
@@ -174,6 +173,9 @@ Papers analyzing concurrent programming and memory safety guarantees.
 
 3. **[`Memory-safety challenge considered solved? An in-depth study with all Rust CVEs`](https://doi.org/10.1145/3466642)**  
    Xu, Hui and Chen, Zhuangbin and Sun, Mingshen and Zhou, Yangfan and Lyu, Michael R, *ACM Transactions on Software Engineering and Methodology (TOSEM) (2021), pp. 1-25.*
+
+4. **[`Keeping safe rust safe with galeed`](https://doi.org/10.1145/3485832.3485903)**  
+   Rivera, Elijah and Mergendahl, Samuel and Shrobe, Howard and Okhravi, Hamed and Burow, Nathan, *Proceedings of the 37th Annual Computer Security Applications Conference (2021), pp. 824-836*
 
 
 ### 2020
