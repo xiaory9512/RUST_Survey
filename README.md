@@ -161,6 +161,19 @@ Papers analyzing concurrent programming and memory safety guarantees.
 2. **[`Modular information flow through ownership`](https://doi.org/10.1145/3519939.3523445)**  
    Crichton, Will and Patrignani, Marco and Agrawala, Maneesh and Hanrahan, Pat, *Proceedings of the 43rd ACM SIGPLAN International Conference on Programming Language Design and Implementation (2022), pp. 1-14.*
 
+3. **[`Unsafe's Betrayal: Abusing Unsafe Rust in Binary Reverse Engineering via Machine Learning`](https://doi.org/10.48550/arXiv.2211.00111)**  
+   Park, Sangdon and Cheng, Xiang and Kim, Taesoo, *arXiv preprint arXiv:2211.00111 (2022).*
+
+
+https://doi.org/10.48550/arXiv.2211.00111
+
+   @article{park2022unsafe,
+  title={},
+  author={Park, Sangdon and Cheng, Xiang and Kim, Taesoo},
+  journal={arXiv preprint arXiv:2211.00111},
+  year={2022}
+}
+
 
 
 ### 2021
