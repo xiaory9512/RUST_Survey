@@ -189,6 +189,9 @@ Papers analyzing concurrent programming and memory safety guarantees.
 6. **[`GhostCell: separating permissions from data in Rust`](https://doi.org/10.1145/3473597)**  
    Yanovski, Joshua and Dang, Hoang-Hai and Jung, Ralf and Dreyer, Derek, *Proceedings of the ACM on Programming Languages (2021), pp. 1-30*
 
+7. **[`Safe systems programming in Rust`](https://dl.acm.org/doi/fullHtml/10.1145/3418295)**  
+   Jung, Ralf and Jourdan, Jacques-Henri and Krebbers, Robbert and Dreyer, Derek, *Communications of the ACM (2021), pp. 144-152*
+
 
 ### 2020
 
