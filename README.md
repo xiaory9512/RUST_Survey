@@ -170,7 +170,10 @@ Papers analyzing concurrent programming and memory safety guarantees.
    Bae, Yechan and Kim, Youngsuk and Askar, Ammar and Lim, Jungwon and Kim, Taesoo, *Proceedings of the ACM SIGOPS 28th Symposium on Operating Systems Principles (2021), pp. 84-99.*
 
 2. **[`MirChecker: detecting bugs in Rust programs via static analysis`](https://doi.org/10.1145/3460120.3484541)**  
-   Li, Zhuohua and Wang, Jincheng and Sun, Mingshen and Lui, John CSo, *Proceedings of the ACM SIGSAC conference on computer and communications security (2021), pp. 2183-2196.*
+   Li, Zhuohua and Wang, Jincheng and Sun, Mingshen and Lui, John CS, *Proceedings of the ACM SIGSAC conference on computer and communications security (2021), pp. 2183-2196.*
+
+3. **[`Memory-safety challenge considered solved? An in-depth study with all Rust CVEs`](https://doi.org/10.1145/3466642)**  
+   Xu, Hui and Chen, Zhuangbin and Sun, Mingshen and Zhou, Yangfan and Lyu, Michael R, *ACM Transactions on Software Engineering and Methodology (TOSEM) (2021), pp. 1-25.*
 
 
 
