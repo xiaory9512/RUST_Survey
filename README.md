@@ -190,6 +190,9 @@ https://doi.org/10.48550/arXiv.2211.00111
 4. **[`Keeping safe rust safe with galeed`](https://doi.org/10.1145/3485832.3485903)**  
    Rivera, Elijah and Mergendahl, Samuel and Shrobe, Howard and Okhravi, Hamed and Burow, Nathan, *Proceedings of the 37th Annual Computer Security Applications Conference (2021), pp. 824-836*
 
+5. **[`RustHorn: CHC-based verification for Rust programs`](https://doi.org/10.1145/3462205)**  
+   Matsushita, Yusuke and Tsukada, Takeshi and Kobayashi, Naoki, *ACM Transactions on Programming Languages and Systems (TOPLAS) (2021), pp. 1-54*
+
 
 ### 2020
 
