@@ -176,6 +176,10 @@ Papers analyzing concurrent programming and memory safety guarantees.
    Xu, Hui and Chen, Zhuangbin and Sun, Mingshen and Zhou, Yangfan and Lyu, Michael R, *ACM Transactions on Software Engineering and Methodology (TOSEM) (2021), pp. 1-25.*
 
 
+### 2020
+
+1. **[`Is rust used safely by software developers?`](https://doi.org/10.1145/3377811.3380413)**  
+   Evans, Ana Nora and Campbell, Bradford and Soffa, Mary Lou, *Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering (2020), pp. 246-257.*
 
 
 ---
