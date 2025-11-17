@@ -186,6 +186,9 @@ Papers analyzing concurrent programming and memory safety guarantees.
 5. **[`RustHorn: CHC-based verification for Rust programs`](https://doi.org/10.1145/3462205)**  
    Matsushita, Yusuke and Tsukada, Takeshi and Kobayashi, Naoki, *ACM Transactions on Programming Languages and Systems (TOPLAS) (2021), pp. 1-54*
 
+6. **[`GhostCell: separating permissions from data in Rust`](https://doi.org/10.1145/3473597)**  
+   Yanovski, Joshua and Dang, Hoang-Hai and Jung, Ralf and Dreyer, Derek, *Proceedings of the ACM on Programming Languages (2021), pp. 1-30*
+
 
 ### 2020
 
