@@ -201,6 +201,9 @@ Papers analyzing concurrent programming and memory safety guarantees.
 7. **[`Safe systems programming in Rust`](https://dl.acm.org/doi/fullHtml/10.1145/3418295)**  
    Jung, Ralf and Jourdan, Jacques-Henri and Krebbers, Robbert and Dreyer, Derek, *Communications of the ACM (2021), pp. 144-152*
 
+8. **[`Syrust: automatic testing of rust libraries with semantic-aware program synthesis`](https://doi.org/10.1145/3453483.3454084)**  
+   Takashima, Yoshiki and Martins, Ruben and Jia, Limin and Puasuareanu, Corina S, *Proceedings of the 42nd ACM SIGPLAN International Conference on Programming Language Design and Implementation (2021), pp. 899-913*
+   
 
 ### 2020
 
