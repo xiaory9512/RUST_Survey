@@ -129,7 +129,7 @@ Papers analyzing concurrent programming and memory safety guarantees.
 12. **[`Static-Dynamic Information Flow Control in Rust`](https://doi.org/10.1145/3689491.3691820)**  
    Beardsley, Vincent, *Companion Proceedings of the 2024 ACM SIGPLAN International Conference on Systems, Programming, Languages, and Applications: Software for Humanity (2025), pp. 16-18*
 
-13. **[`Formally understanding Rust’s ownership and borrowing system at the memory level`]([https://doi.org/10.1145/3689491.3691820](https://link.springer.com/article/10.1007/s10703-024-00460-3))**  
+13. **[`Formally understanding Rust’s ownership and borrowing system at the memory level`](https://link.springer.com/article/10.1007/s10703-024-00460-3)**  
    Kan, Shuanglong and Chen, Zhe and Sanan, David and Liu, Yang, *Formal Methods in System Design (2025), pp. 200-236*
 
 
