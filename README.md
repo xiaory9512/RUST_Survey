@@ -82,6 +82,10 @@ Papers analyzing concurrent programming and memory safety guarantees.
 12. **[`Paralegal: Practical static analysis for privacy bugs`](https://www.usenix.org/conference/osdi25/presentation/adam)**  
    Adam, Justus and Zech, Carolyn and Zhu, Livia and Rajesh, Sreshtaa and Harbison, Nathan and Jethwa, Mithi and Crichton, Will and Krishnamurthi, Shriram and Schwarzkopf, Malte, *19th USENIX Symposium on Operating Systems Design and Implementation (2025), pp. 957-978*
 
+13. **[`deepSURF: Detecting Memory Safety Vulnerabilities in Rust Through Fuzzing LLM-Augmented Harnesses`](https://doi.org/10.48550/arXiv.2506.15648)**  
+   Androutsopoulos, Georgios and Bianchi, Antonio, *arXiv preprint arXiv:2506.15648 (2025)*
+
+
 
 
 
