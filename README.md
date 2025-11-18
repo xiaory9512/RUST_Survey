@@ -208,6 +208,11 @@ Papers analyzing concurrent programming and memory safety guarantees.
 
 8. **[`Syrust: automatic testing of rust libraries with semantic-aware program synthesis`](https://doi.org/10.1145/3453483.3454084)**  
    Takashima, Yoshiki and Martins, Ruben and Jia, Limin and Puasuareanu, Corina S, *Proceedings of the 42nd ACM SIGPLAN International Conference on Programming Language Design and Implementation (2021), pp. 899-913*
+
+9. **[`A lightweight formalism for reference lifetimes and borrowing in Rust`](https://doi.org/10.1145/3443420)**  
+   Pearce, David J, *ACM Transactions on Programming Languages and Systems (TOPLAS) (2021), pp. 1-73*
+
+ 
    
 
 ### 2020
