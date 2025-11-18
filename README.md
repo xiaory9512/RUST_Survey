@@ -132,6 +132,11 @@ Papers analyzing concurrent programming and memory safety guarantees.
 13. **[`Formally understanding Rust’s ownership and borrowing system at the memory level`](https://link.springer.com/article/10.1007/s10703-024-00460-3)**  
    Kan, Shuanglong and Chen, Zhe and Sanan, David and Liu, Yang, *Formal Methods in System Design (2025), pp. 200-236*
 
+14. **[`RPG: Rust library fuzzing with pool-based fuzz target generation and generic support`](https://doi.org/10.1145/3597503.3639102)**  
+   Xu, Zhiwu and Wu, Bohao and Wen, Cheng and Zhang, Bin and Qin, Shengchao and He, Mengda, *Proceedings of the IEEE/ACM 46th International Conference on Software Engineering (2025), pp. 1-13*
+
+
+
 
  
 ---
