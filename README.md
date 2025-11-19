@@ -89,11 +89,9 @@ Papers analyzing concurrent programming and memory safety guarantees.
    Zhou, Zixu, *arXiv preprint arXiv:2507.18792 (2025)*
 
 15. **[`Detecting Memory Errors in Rust Programs Including Unsafe Foreign Code`](https://link.springer.com/chapter/10.1007/978-3-032-10444-1_11)**  
-   Franceschi, Andrea and Galletta, Letterio and Degano, Pierpaolo, *International Conference on Software Engineering and Formal Methods (2025), pp.  167-184*
+   Franceschi, Andrea and Galletta, Letterio and Degano, Pierpaolo, *International Conference on Software Engineering and Formal Methods (2025), pp. 167-184*
 
 
-
----
 
 ### 2024
 
@@ -192,7 +190,9 @@ Papers analyzing concurrent programming and memory safety guarantees.
 7. **[`A grounded conceptual model for ownership types in rust`](https://doi.org/10.1145/3622841)**  
    Deligiannis, Pantazis and Lal, Akash and Mehrotra, Nikita and Poddar, Rishi and Rastogi, Aseem, *Proceedings of the ACM on Programming Languages, OOPSLA2 (2023), pp. 1224-1252.*
 
-   
+
+8. **[`$“I$\}$ wouldn't want my unsafe code to run my $\{$pacemaker”$\}$: An Interview Study on the Use, Comprehension, and Perceived Risks of Unsafe Rust`](https://www.usenix.org/system/files/usenixsecurity23-holtervennhoff.pdf)**  
+   H{\"o}ltervennhoff, Sandra and Klostermeyer, Philip and W{\"o}hler, Noah and Acar, Yasemin and Fahl, Sascha, *32nd USENIX Security Symposium (USENIX Security 23) (2023), pp. 2509-2525*
 
 
 ---
