@@ -193,6 +193,9 @@ Papers analyzing concurrent programming and memory safety guarantees.
 4. **[`RustHornBelt: a semantic foundation for functional verification of Rust programs with unsafe code`](https://doi.org/10.1145/3519939.3523704)**  
    Matsushita, Yusuke and Denis, Xavier and Jourdan, Jacques-Henri and Dreyer, Derek, *Proceedings of the 43rd ACM SIGPLAN International Conference on Programming Language Design and Implementation (2022), pp. 841-856.*
 
+5. **[`Creusot: A foundry for the deductive verification of Rust programs`](https://link.springer.com/chapter/10.1007/978-3-031-17244-1_6)**  
+   Denis, Xavier and Jourdan, Jacques-Henri and Marche, Claude, *International Conference on Formal Engineering Methods (2022), pp. 90-105.*
+
 
 
 ### 2021
