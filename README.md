@@ -163,6 +163,8 @@ Papers analyzing concurrent programming and memory safety guarantees.
 22. **[`A mixed-methods study on the implications of unsafe Rust for interoperation, encapsulation, and tooling`](https://arxiv.org/abs/2404.02230)**  
    McCormack, Ian and Dougan, Tomas and Estep, Sam and Hibshi, Hanan and Aldrich, Jonathan and Sunshine, Joshua, *IEEE arXiv preprint arXiv:2404.02230 (2024)*
 
+23. **[`PanicFI: An Infrastructure for Fixing Panic Bugs in Real-World Rust Programs`](https://arxiv.org/abs/2408.03262)**  
+   Ni, Yunbo and Feng, Yang and Liu, Zixi and Chen, Runtao and Xu, Baowen, *arXiv preprint arXiv:2408.03262 (2024)*
 
 
 ---
