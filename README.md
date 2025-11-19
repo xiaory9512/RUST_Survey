@@ -85,7 +85,8 @@ Papers analyzing concurrent programming and memory safety guarantees.
 13. **[`deepSURF: Detecting Memory Safety Vulnerabilities in Rust Through Fuzzing LLM-Augmented Harnesses`](https://doi.org/10.48550/arXiv.2506.15648)**  
    Androutsopoulos, Georgios and Bianchi, Antonio, *arXiv preprint arXiv:2506.15648 (2025)*
 
-
+14. **[`Decompiling Rust: An Empirical Study of Compiler Optimizations and Reverse Engineering Challenges`](https://arxiv.org/abs/2507.18792)**  
+   Zhou, Zixu, *arXiv preprint arXiv:2507.18792 (2025)*
 
 ---
 
