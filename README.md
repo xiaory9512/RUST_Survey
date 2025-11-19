@@ -144,6 +144,9 @@ Papers analyzing concurrent programming and memory safety guarantees.
 17. **[`Safe Shared State in Dataflow Systems`](https://doi.org/10.1145/3629104.3666029)**  
    De Martini, Luca and Margara, Alessandro, *Proceedings of the 18th ACM International Conference on Distributed and Event-Based Systems (2024), pp. 30-41*
 
+18. **[`Surveying the Rust Verification Landscape`](https://doi.org/10.48550/arXiv.2410.01981)**  
+   Blanc, Alex Le and Lam, Patrick, *arXiv preprint arXiv:2410.01981 (2024)*
+
 
 ---
 
