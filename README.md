@@ -127,16 +127,16 @@ Papers analyzing concurrent programming and memory safety guarantees.
    Lamba, Ada and Taylor, Max and Beardsley, Vincent and Bambeck, Jacob and Bond, Michael D and Lin, Zhiqiang, *Proceedings of the ACM on Programming Languages, OOPSLA1 (2024), pp. 166-193*.
 
 12. **[`Static-Dynamic Information Flow Control in Rust`](https://doi.org/10.1145/3689491.3691820)**  
-   Beardsley, Vincent, *Companion Proceedings of the 2024 ACM SIGPLAN International Conference on Systems, Programming, Languages, and Applications: Software for Humanity (2025), pp. 16-18*
+   Beardsley, Vincent, *Companion Proceedings of the 2024 ACM SIGPLAN International Conference on Systems, Programming, Languages, and Applications: Software for Humanity (2024), pp. 16-18*
 
 13. **[`Formally understanding Rust’s ownership and borrowing system at the memory level`](https://link.springer.com/article/10.1007/s10703-024-00460-3)**  
-   Kan, Shuanglong and Chen, Zhe and Sanan, David and Liu, Yang, *Formal Methods in System Design (2025), pp. 200-236*
+   Kan, Shuanglong and Chen, Zhe and Sanan, David and Liu, Yang, *Formal Methods in System Design (2024), pp. 200-236*
 
 14. **[`RPG: Rust library fuzzing with pool-based fuzz target generation and generic support`](https://doi.org/10.1145/3597503.3639102)**  
-   Xu, Zhiwu and Wu, Bohao and Wen, Cheng and Zhang, Bin and Qin, Shengchao and He, Mengda, *Proceedings of the IEEE/ACM 46th International Conference on Software Engineering (2025), pp. 1-13*
+   Xu, Zhiwu and Wu, Bohao and Wen, Cheng and Zhang, Bin and Qin, Shengchao and He, Mengda, *Proceedings of the IEEE/ACM 46th International Conference on Software Engineering (2024), pp. 1-13*
 
-
-
+15. **[`Reasoning about Interior Mutability in Rust using Library-Defined Capabilities`](https://doi.org/10.48550/arXiv.2405.08372)**  
+   Poli, Federico and Denis, Xavier and Muller, Peter and Summers, Alexander J, *Proceedings of the IEEE/ACM 46th International Conference on Software Engineering (2024)*
 
  
 ---
