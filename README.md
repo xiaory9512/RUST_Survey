@@ -147,6 +147,9 @@ Papers analyzing concurrent programming and memory safety guarantees.
 18. **[`Surveying the Rust Verification Landscape`](https://doi.org/10.48550/arXiv.2410.01981)**  
    Blanc, Alex Le and Lam, Patrick, *arXiv preprint arXiv:2410.01981 (2024)*
 
+19. **[`SafeNet: Towards mitigating replaceable unsafe Rust code via a recommendation-based approach`](https://onlinelibrary.wiley.com/doi/epdf/10.1002/stvr.1875)**  
+   Dong, Yan and Zhang, Zhicong and Cui, Mohan and Xu, Hui, *Software Testing, Verification and Reliability (2024)*
+
 
 ---
 
@@ -168,10 +171,10 @@ Papers analyzing concurrent programming and memory safety guarantees.
    G{u}lmez, Merve and Nyman, Thomas and Baumann, Christoph and M{u}hlberg, Jan Tobias, *IEEE Secure Development Conference (SecDev) (2023), pp. 54-66.*
 
 6. **[`Using LLMs to fix compilation errors in Rust code`](https://arxiv.org/abs/2308.05177)**  
-   Deligiannis, Pantazis and Lal, Akash and Mehrotra, Nikita and Poddar, Rishi and Rastogi, Aseem, *IEEE/ACM 47th International Conference on Software Engineering (ICSE) (2023), pp. 3097-3109*
+   Deligiannis, Pantazis and Lal, Akash and Mehrotra, Nikita and Poddar, Rishi and Rastogi, Aseem, *IEEE/ACM 47th International Conference on Software Engineering (ICSE) (2023), pp. 3097-3109.*
 
 7. **[`A grounded conceptual model for ownership types in rust`](https://doi.org/10.1145/3622841)**  
-   Deligiannis, Pantazis and Lal, Akash and Mehrotra, Nikita and Poddar, Rishi and Rastogi, Aseem, *Proceedings of the ACM on Programming Languages, OOPSLA2 (2023), pp. 1224-1252*
+   Deligiannis, Pantazis and Lal, Akash and Mehrotra, Nikita and Poddar, Rishi and Rastogi, Aseem, *Proceedings of the ACM on Programming Languages, OOPSLA2 (2023), pp. 1224-1252.*
    
  
 ---
