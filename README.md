@@ -190,9 +190,6 @@ Papers analyzing concurrent programming and memory safety guarantees.
 7. **[`A grounded conceptual model for ownership types in rust`](https://doi.org/10.1145/3622841)**  
    Deligiannis, Pantazis and Lal, Akash and Mehrotra, Nikita and Poddar, Rishi and Rastogi, Aseem, *Proceedings of the ACM on Programming Languages, OOPSLA2 (2023), pp. 1224-1252.*
 
-
-8. **[`Detect Stack Overflow Bugs in Rust via Improved Fuzzing Technique.`](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://ksiresearch.org/seke/seke23paper/paper122.pdf)**  
-   Ren, Zhiyong and Xu, Hui and Chang, S, *SEKE (2023), pp. 175-180.*
    
 
 
