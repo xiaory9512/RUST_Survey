@@ -87,8 +87,6 @@ Papers analyzing concurrent programming and memory safety guarantees.
 
 
 
-
-
 ---
 
 ### 2024
@@ -149,6 +147,9 @@ Papers analyzing concurrent programming and memory safety guarantees.
 
 19. **[`SafeNet: Towards mitigating replaceable unsafe Rust code via a recommendation-based approach`](https://onlinelibrary.wiley.com/doi/epdf/10.1002/stvr.1875)**  
    Dong, Yan and Zhang, Zhicong and Cui, Mohan and Xu, Hui, *Software Testing, Verification and Reliability (2024)*
+
+20. **[`Refinedrust: A type system for high-assurance verification of Rust programs`](https://doi.org/10.1145/3656422)**  
+   Gaher, Lennard and Sammler, Michael and Jung, Ralf and Krebbers, Robbert and Dreyer, Derek, *Proceedings of the ACM on Programming Languages (2024), pp. 1115-1139*
 
 
 ---
