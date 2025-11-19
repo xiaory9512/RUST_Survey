@@ -136,9 +136,12 @@ Papers analyzing concurrent programming and memory safety guarantees.
    Xu, Zhiwu and Wu, Bohao and Wen, Cheng and Zhang, Bin and Qin, Shengchao and He, Mengda, *Proceedings of the IEEE/ACM 46th International Conference on Software Engineering (2024), pp. 1-13*
 
 15. **[`Reasoning about Interior Mutability in Rust using Library-Defined Capabilities`](https://doi.org/10.48550/arXiv.2405.08372)**  
-   Poli, Federico and Denis, Xavier and Muller, Peter and Summers, Alexander J, *Proceedings of the IEEE/ACM 46th International Conference on Software Engineering (2024)*
+   Poli, Federico and Denis, Xavier and Muller, Peter and Summers, Alexander J, *arXiv preprint arXiv:2405.08372 (2024)*
 
- 
+16. **[`UnsafeCop: Towards Memory Safety for Real-World Unsafe Rust Co de with P ractical Bounded Model Checking`](https://link.springer.com/chapter/10.1007/978-3-031-71177-0_19)**  
+   Wang, Minghua and Xue, Jingling and Huang, Lin and Zi, Yuan and Wei, Tao, *International Symposium on Formal Methods (2024), pp. 307-324*
+
+
 ---
 
 ### 2023
