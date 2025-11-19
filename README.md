@@ -260,6 +260,18 @@ Papers analyzing concurrent programming and memory safety guarantees.
    Astrauskas, Vytautas and Matheja, Christoph and Poli, Federico and Muller, Peter and Summers, Alexander J *{Proceedings of the ACM on Programming Languages (OOPSLA), (2020), pp. 1-27.*
 
 
+4. **[`RUSTY: A Fuzzing Tool for Rust?`](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.acsac.org/2020/program/poster-wips/2020-3-RUSTY%20%20A%20Fuzzing%20Tool%20for%20Rust.pdf)**  
+   Astrauskas, Vytautas and Matheja, Christoph and Poli, Federico and Muller, Peter and Summers, Alexander J *{Proceedings of the ACM on Programming Languages (OOPSLA), (2020), pp. 1-27.*
+
+
+
+@inproceedings{ashouri2020rusty,
+  title={},
+  author={Ashouri, Mohammadreza},
+  booktitle={Annual Computer Security Applications Conference},
+  year={2020}
+}
+
 ---
 
 ## Statistics
