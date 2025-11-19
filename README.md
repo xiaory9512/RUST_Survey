@@ -152,6 +152,18 @@ Papers analyzing concurrent programming and memory safety guarantees.
 20. **[`Refinedrust: A type system for high-assurance verification of Rust programs`](https://doi.org/10.1145/3656422)**  
    Gaher, Lennard and Sammler, Michael and Jung, Ralf and Krebbers, Robbert and Dreyer, Derek, *Proceedings of the ACM on Programming Languages (2024), pp. 1115-1139*
 
+21. **[`rCanary: Detecting Memory Leaks Across Semi-automated Memory Management Boundary in Rust`](https://ieeexplore.ieee.org/abstract/document/10636096)**  
+   Cui, Mohan and Xu, Hui and Tian, Hongliang and Zhou, Yangfan, *IEEE Transactions on Software Engineering (2024)*
+
+
+
+@article{cui2024rcanary,
+  title={},
+  author={},
+  journal={},
+  year={2024},
+  publisher={IEEE}
+}
 
 ---
 
