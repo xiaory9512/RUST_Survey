@@ -161,15 +161,6 @@ Papers analyzing concurrent programming and memory safety guarantees.
    Cui, Mohan and Xu, Hui and Tian, Hongliang and Zhou, Yangfan, *IEEE Transactions on Software Engineering (2024)*
 
 
-
-@article{cui2024rcanary,
-  title={},
-  author={},
-  journal={},
-  year={2024},
-  publisher={IEEE}
-}
-
 ---
 
 ### 2023
