@@ -141,6 +141,10 @@ Papers analyzing concurrent programming and memory safety guarantees.
 16. **[`UnsafeCop: Towards Memory Safety for Real-World Unsafe Rust Co de with P ractical Bounded Model Checking`](https://link.springer.com/chapter/10.1007/978-3-031-71177-0_19)**  
    Wang, Minghua and Xue, Jingling and Huang, Lin and Zi, Yuan and Wei, Tao, *International Symposium on Formal Methods (2024), pp. 307-324*
 
+17. **[`Safe Shared State in Dataflow Systems`](https://doi.org/10.1145/3629104.3666029)**  
+   De Martini, Luca and Margara, Alessandro, *Proceedings of the 18th ACM International Conference on Distributed and Event-Based Systems (2024), pp. 30-41*
+
+
 
 ---
 
