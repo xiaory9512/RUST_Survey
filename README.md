@@ -160,6 +160,10 @@ Papers analyzing concurrent programming and memory safety guarantees.
 21. **[`rCanary: Detecting Memory Leaks Across Semi-automated Memory Management Boundary in Rust`](https://ieeexplore.ieee.org/abstract/document/10636096)**  
    Cui, Mohan and Xu, Hui and Tian, Hongliang and Zhou, Yangfan, *IEEE Transactions on Software Engineering (2024)*
 
+22. **[`A mixed-methods study on the implications of unsafe Rust for interoperation, encapsulation, and tooling`](https://arxiv.org/abs/2404.02230)**  
+   McCormack, Ian and Dougan, Tomas and Estep, Sam and Hibshi, Hanan and Aldrich, Jonathan and Sunshine, Joshua, *IEEE arXiv preprint arXiv:2404.02230 (2024)*
+
+
 
 ---
 
