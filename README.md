@@ -88,6 +88,11 @@ Papers analyzing concurrent programming and memory safety guarantees.
 14. **[`Decompiling Rust: An Empirical Study of Compiler Optimizations and Reverse Engineering Challenges`](https://arxiv.org/abs/2507.18792)**  
    Zhou, Zixu, *arXiv preprint arXiv:2507.18792 (2025)*
 
+15. **[`Detecting Memory Errors in Rust Programs Including Unsafe Foreign Code`](https://link.springer.com/chapter/10.1007/978-3-032-10444-1_11)**  
+   Franceschi, Andrea and Galletta, Letterio and Degano, Pierpaolo, *International Conference on Software Engineering and Formal Methods (2025), pp.  167-184*
+
+
+
 ---
 
 ### 2024
