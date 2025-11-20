@@ -226,6 +226,8 @@ Papers analyzing concurrent programming and memory safety guarantees.
 5. **[`Creusot: A foundry for the deductive verification of Rust programs`](https://link.springer.com/chapter/10.1007/978-3-031-17244-1_6)**  
    Denis, Xavier and Jourdan, Jacques-Henri and Marche, Claude, *International Conference on Formal Engineering Methods (2022), pp. 90-105.*
 
+6. **[`Verifying dynamic trait objects in rust`](https://dl.acm.org/doi/abs/10.1145/3510457.3513031)**  
+   VanHattum, Alexa and Schwartz-Narbonne, Daniel and Chong, Nathan and Sampson, Adrian, *Proceedings of the 44th International Conference on Software Engineering: Software Engineering in Practice, (2022), pp. 321-330*
 
 
 ### 2021
@@ -259,7 +261,7 @@ Papers analyzing concurrent programming and memory safety guarantees.
 
 10. **[`Safer at any speed: automatic context-aware safety enhancement for Rust`](https://doi.org/10.1145/3485480)**  
    Popescu, Natalie and Xu, Ziyang and Apostolakis, Sotiris and August, David I and Levy, Amit, *Proceedings of the ACM on Programming Languages (OOPSLA), (2021), pp. 1-23*
- 
+
 
 ### 2020
 
