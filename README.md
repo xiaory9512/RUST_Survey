@@ -166,6 +166,9 @@ Papers analyzing concurrent programming and memory safety guarantees.
 23. **[`PanicFI: An Infrastructure for Fixing Panic Bugs in Real-World Rust Programs`](https://arxiv.org/abs/2408.03262)**  
    Ni, Yunbo and Feng, Yang and Liu, Zixi and Chen, Runtao and Xu, Baowen, *arXiv preprint arXiv:2408.03262 (2024)*
 
+24. **[`rOOM: A Rust-Based Linux Out of Memory Kernel Component`](https://globals.ieice.org/en_transactions/information/10.1587/transinf.2023MPP0001/_p)**  
+   Li, Linhan and Zhang, IEICE TRANSACTIONS on Information and Systems, *The Institute of Electronics, Information and Communication Engineers (2024), pp. 245-256*
+
 
 ---
 
