@@ -172,8 +172,10 @@ Papers analyzing concurrent programming and memory safety guarantees.
 24. **[`rOOM: A Rust-Based Linux Out of Memory Kernel Component`](https://globals.ieice.org/en_transactions/information/10.1587/transinf.2023MPP0001/_p)**  
    Li, Linhan and Zhang, IEICE TRANSACTIONS on Information and Systems, *The Institute of Electronics, Information and Communication Engineers (2024), pp. 245-256*
 
+25. **[`An Empirical Study on Bugs in Rust Programming Language`](https://ieeexplore.ieee.org/abstract/document/10684664)**  
+   Yu, Sijie and Wang, Ziyuan, *IEEE 24th International Conference on Software Quality, Reliability and Security (QRS) (2024), pp. 296-305*
 
----
+
 
 ### 2023
 
