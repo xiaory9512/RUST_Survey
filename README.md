@@ -272,8 +272,12 @@ Papers analyzing concurrent programming and memory safety guarantees.
    Qin, Boqin and Chen, Yilun and Yu, Zeming and Song, Linhai and Zhang, Yiying, *Proceedings of the 41st ACM SIGPLAN Conference on Programming Language Design and Implementation (2020), pp. 763-779.*
 
 3. **[`How do programmers use unsafe rust?`](https://doi.org/10.1145/3428204)**  
-   Astrauskas, Vytautas and Matheja, Christoph and Poli, Federico and Muller, Peter and Summers, Alexander J *{Proceedings of the ACM on Programming Languages (OOPSLA), (2020), pp. 1-27.*
+   Astrauskas, Vytautas and Matheja, Christoph and Poli, Federico and Muller, Peter and Summers, Alexander J, *Proceedings of the ACM on Programming Languages (OOPSLA), (2020), pp. 1-27.*
 
+4. **[`Securing unsafe rust programs with XRust`](https://doi.org/10.1145/3377811.3380325)**  
+   Liu, Peiming and Zhao, Gang and Huang, Jeff, *Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering, (2020), pp. 234-245.*
+
+   
 
 ---
 
