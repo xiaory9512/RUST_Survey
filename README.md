@@ -196,6 +196,8 @@ Papers analyzing concurrent programming and memory safety guarantees.
 8. **[`I wouldn't want my unsafe code to run my pacemaker: An Interview Study on the Use, Comprehension, and Perceived Risks of Unsafe Rust`](https://www.usenix.org/system/files/usenixsecurity23-holtervennhoff.pdf)**  
    Holtervennhoff, Sandra and Klostermeyer, Philip and Wohler, Noah and Acar, Yasemin and Fahl, Sascha, *32nd USENIX Security Symposium (USENIX Security 23) (2023), pp. 2509-2525*
 
+9. **[`A Comparative Analysis of Rust-Based SGX Frameworks: Implications for Building SGX Applications`](Shin, Heekyung and Ock, Jiwon and No, Hyeon and Kim, Seongmin)**  
+   Holtervennhoff, Sandra and Klostermeyer, Philip and Wohler, Noah and Acar, Yasemin and Fahl, Sascha, *International Conference on Information Security and Cryptology (2023), pp. 3-19*
 
 ---
 
