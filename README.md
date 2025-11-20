@@ -91,6 +91,8 @@ Papers analyzing concurrent programming and memory safety guarantees.
 15. **[`Detecting Memory Errors in Rust Programs Including Unsafe Foreign Code`](https://link.springer.com/chapter/10.1007/978-3-032-10444-1_11)**  
    Franceschi, Andrea and Galletta, Letterio and Degano, Pierpaolo, *International Conference on Software Engineering and Formal Methods (2025), pp. 167-184*
 
+16. **[`Improving Software Reliability with Rust: Implementation for Enhanced Control Flow Checking Methods`](https://ieeexplore.ieee.org/abstract/document/10992995)**  
+   Sini, Jacopo and Solouki, Mohammadreza Amel and Violante, Massimo and Di Natale, Giorgio, *Design, Automation & Test in Europe Conference (2025), pp. 1-7*
 
 
 ### 2024
