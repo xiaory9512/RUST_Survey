@@ -94,6 +94,9 @@ Papers analyzing concurrent programming and memory safety guarantees.
 16. **[`Improving Software Reliability with Rust: Implementation for Enhanced Control Flow Checking Methods`](https://ieeexplore.ieee.org/abstract/document/10992995)**  
    Sini, Jacopo and Solouki, Mohammadreza Amel and Violante, Massimo and Di Natale, Giorgio, *Design, Automation & Test in Europe Conference (2025), pp. 1-7*
 
+17. **[`SafeFFI: Efficient Sanitization at the Boundary Between Safe and Unsafe Code in Rust and Mixed-Language Applications`](https://arxiv.org/abs/2510.20688)**  
+   Braunsdorf, Oliver and Lange, Tim and Hohentanner, Konrad and Horsch, Julian and Kinder, Johannes, *arXiv preprint arXiv:2510.20688 (2025)*
+
 
 ### 2024
 
