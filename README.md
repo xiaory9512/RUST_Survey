@@ -255,8 +255,9 @@ Papers analyzing concurrent programming and memory safety guarantees.
 9. **[`A lightweight formalism for reference lifetimes and borrowing in Rust`](https://doi.org/10.1145/3443420)**  
    Pearce, David J, *ACM Transactions on Programming Languages and Systems (TOPLAS) (2021), pp. 1-73*
 
+10. **[`Safer at any speed: automatic context-aware safety enhancement for Rust`](https://doi.org/10.1145/3485480)**  
+   Popescu, Natalie and Xu, Ziyang and Apostolakis, Sotiris and August, David I and Levy, Amit, *Proceedings of the ACM on Programming Languages (OOPSLA), (2021), pp. 1-23*
  
-   
 
 ### 2020
 
