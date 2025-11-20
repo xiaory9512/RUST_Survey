@@ -229,6 +229,10 @@ Papers analyzing concurrent programming and memory safety guarantees.
 6. **[`Verifying dynamic trait objects in rust`](https://dl.acm.org/doi/abs/10.1145/3510457.3513031)**  
    VanHattum, Alexa and Schwartz-Narbonne, Daniel and Chong, Nathan and Sampson, Adrian, *Proceedings of the 44th International Conference on Software Engineering: Software Engineering in Practice, (2022), pp. 321-330*
 
+7. **[`Pkru-safe: automatically locking down the heap between safe and unsafe languages`](https://dl.acm.org/doi/abs/10.1145/3492321.3519582)**  
+   Kirth, Paul and Dickerson, Mitchel and Crane, Stephen and Larsen, Per and Dabrowski, Adrian and Gens, David and Na, Yeoul and Volckaert, Stijn and Franz, Michael, *{Proceedings of the Seventeenth European Conference on Computer Systems, (2022), pp. 132-148*
+
+
 
 ### 2021
 
