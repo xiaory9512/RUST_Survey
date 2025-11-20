@@ -97,6 +97,9 @@ Papers analyzing concurrent programming and memory safety guarantees.
 17. **[`SafeFFI: Efficient Sanitization at the Boundary Between Safe and Unsafe Code in Rust and Mixed-Language Applications`](https://arxiv.org/abs/2510.20688)**  
    Braunsdorf, Oliver and Lange, Tim and Hohentanner, Konrad and Horsch, Julian and Kinder, Johannes, *arXiv preprint arXiv:2510.20688 (2025)*
 
+18. **[`Automatic Linear Resource Bound Analysis for Rust via Prophecy Potentials`](https://dl.acm.org/doi/pdf/10.1145/3720492)**
+    Lian, Qihao and Wang, Di, *Proceedings of the ACM on Programming Languages, OOPSLA1 (2025)*
+
 
 ### 2024
 
