@@ -197,6 +197,9 @@ Papers analyzing concurrent programming and memory safety guarantees.
    Holtervennhoff, Sandra and Klostermeyer, Philip and Wohler, Noah and Acar, Yasemin and Fahl, Sascha, *32nd USENIX Security Symposium (USENIX Security 23) (2023), pp. 2509-2525*
 
 9. **[`A Comparative Analysis of Rust-Based SGX Frameworks: Implications for Building SGX Applications`](https://link.springer.com/chapter/10.1007/978-981-97-1238-0_1)**  
+   Holtervennhoff, Sandra and Klostermeyer, Philip and Wohler, Noah and Acar, Yasemin and Fahl, Sascha, *32nd USENIX Security Symposium (USENIX Security 23) (2023), pp. 2509-2525*
+
+10. **[`A Comparative Analysis of Rust-Based SGX Frameworks: Implications for Building SGX Applications`](https://link.springer.com/chapter/10.1007/978-981-97-1238-0_1)**  
    Shin, Heekyung and Ock, Jiwon and No, Hyeon and Kim, Seongmin, *International Conference on Information Security and Cryptology (2023), pp. 3-19*
 
 ---
