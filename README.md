@@ -103,7 +103,7 @@ Papers analyzing concurrent programming and memory safety guarantees.
 19. **[`LiteRSan: Lightweight Memory Safety Via Rust-specific Program Analysis and Selective Instrumentation`](https://arxiv.org/abs/2509.16389)**
     Xia, Tianrou and Huang, Kaiming and Yu, Dongyeon and Jeon, Yuseok and Zhou, Jie and Wu, Dinghao and Kim, Taegyu, *arXiv preprint arXiv:2509.16389 (2025)*
 
-20. **[`Vest: Verified, secure, high-performance parsing and serialization for Rust`]([https://arxiv.org/abs/2509.16389](https://www.andrew.cmu.edu/user/bparno/papers/vest.pdf)**
+20. **[`Vest: Verified, secure, high-performance parsing and serialization for Rust`](https://www.andrew.cmu.edu/user/bparno/papers/vest.pdf)**
     Cai, Yi and Singh, Pratap and Lin, Zhengyao and Bosamiya, Jay and Gancher, Joshua and Surbatovich, Milijana and Parno, Bryan and Model, Reviewing, *Proceedings of the USENIX Security Symposium (2025)*
 
 
