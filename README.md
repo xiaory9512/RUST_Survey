@@ -100,7 +100,7 @@ Papers analyzing concurrent programming and memory safety guarantees.
 18. **[`Automatic Linear Resource Bound Analysis for Rust via Prophecy Potentials`](https://dl.acm.org/doi/pdf/10.1145/3720492)**
     Lian, Qihao and Wang, Di, *Proceedings of the ACM on Programming Languages, OOPSLA1 (2025)*
 
-19. **[`LiteRSan: Lightweight Memory Safety Via Rust-specific Program Analysis and Selective Instrumentation`](https://dl.acm.org/doi/pdf/10.1145/3720492)**
+19. **[`LiteRSan: Lightweight Memory Safety Via Rust-specific Program Analysis and Selective Instrumentation`](https://arxiv.org/abs/2509.16389)**
     Xia, Tianrou and Huang, Kaiming and Yu, Dongyeon and Jeon, Yuseok and Zhou, Jie and Wu, Dinghao and Kim, Taegyu, *arXiv preprint arXiv:2509.16389 (2025)*
 
 
