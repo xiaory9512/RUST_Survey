@@ -269,6 +269,10 @@ Papers analyzing concurrent programming and memory safety guarantees.
 10. **[`Safer at any speed: automatic context-aware safety enhancement for Rust`](https://doi.org/10.1145/3485480)**  
    Popescu, Natalie and Xu, Ziyang and Apostolakis, Sotiris and August, David I and Levy, Amit, *Proceedings of the ACM on Programming Languages (OOPSLA), (2021), pp. 1-23*
 
+11. **[`RULF: Rust library fuzzing via API dependency graph traversal`](https://ieeexplore.ieee.org/abstract/document/9678813?casa_token=GZVQ40vnE9wAAAAA:lfyvN6zLjKS1iBPmu8vLkufAjgwf5pyK-zvLHFQzsOzwNo991KH3K3G2EwkO4VHXumljtoEyVx4)**  
+   Jiang, Jianfeng and Xu, Hui and Zhou, Yangfan, *2021 36th IEEE/ACM International Conference on Automated Software Engineering (ASE), (2021), pp. 581-592*
+
+
 
 ### 2020
 
