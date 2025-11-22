@@ -181,6 +181,9 @@ Papers analyzing concurrent programming and memory safety guarantees.
 25. **[`An Empirical Study on Bugs in Rust Programming Language`](https://ieeexplore.ieee.org/abstract/document/10684664)**  
    Yu, Sijie and Wang, Ziyuan, *IEEE 24th International Conference on Software Quality, Reliability and Security (QRS) (2024), pp. 296-305*
 
+26. **[`LEA Block Cipher in Rust Language: Trade-off between Memory Safety and Performance`]([https://ieeexplore.ieee.org/abstract/document/10684664](https://ieeexplore.ieee.org/abstract/document/10830717?casa_token=auT_ruSE1Z8AAAAA:DQ2bzLVL15oSnM6-mqq_4Dpm4_McbfPnaFFPzDWcrl5ARqME_ZtW1P8vHgkX5_qKh0-3cAPW7Fo))**  
+   Kim, Sangwon and Eum, Siwoo and Song, Minho and Seo, Hwajeong, *International Conference on Platform Technology and Service (PlatCon) (2024), pp. 166-171*
+
 
 
 ### 2023
