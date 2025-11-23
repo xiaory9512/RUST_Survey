@@ -188,6 +188,9 @@ Papers analyzing concurrent programming and memory safety guarantees.
 26. **[`LEA Block Cipher in Rust Language: Trade-off between Memory Safety and Performance`](https://ieeexplore.ieee.org/abstract/document/10830717?casa_token=auT_ruSE1Z8AAAAA:DQ2bzLVL15oSnM6-mqq_4Dpm4_McbfPnaFFPzDWcrl5ARqME_ZtW1P8vHgkX5_qKh0-3cAPW7Fo))**  
    Kim, Sangwon and Eum, Siwoo and Song, Minho and Seo, Hwajeong, *International Conference on Platform Technology and Service (PlatCon) (2024), pp. 166-171*
 
+27. **[`$\{$MetaSafe$\}$: Compiling for Protecting Smart Pointer Metadata to Ensure Safe Rust Integrity`](https://www.usenix.org/conference/usenixsecurity24/presentation/kayondo))**  
+   Kayondo, Martin and Bang, Inyoung and Kwak, Yeongjun and Moon, Hyungon and Paek, Yunheung, *33rd USENIX Security Symposium (USENIX Security 24) (2024), pp. 3711-3728*
+
 
 
 ### 2023
