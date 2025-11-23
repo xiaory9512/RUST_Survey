@@ -106,6 +106,11 @@ Papers analyzing concurrent programming and memory safety guarantees.
 20. **[`Vest: Verified, secure, high-performance parsing and serialization for Rust`](https://www.andrew.cmu.edu/user/bparno/papers/vest.pdf)**
     Cai, Yi and Singh, Pratap and Lin, Zhengyao and Bosamiya, Jay and Gancher, Joshua and Surbatovich, Milijana and Parno, Bryan and Model, Reviewing, *Proceedings of the USENIX Security Symposium (2025)*
 
+21. **[`TYPEPULSE: Detecting Type Confusion Bugs in Rust Programs`]()**
+    Chen, Hung-Mao and He, Xu and Wang, Shu and Zhang, Xiaokuan and Sun, Kun, *arXiv preprint arXiv:2502.03271 (2025)*
+
+
+
 
 
 
