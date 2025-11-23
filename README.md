@@ -213,7 +213,6 @@ Papers analyzing concurrent programming and memory safety guarantees.
 7. **[`A grounded conceptual model for ownership types in rust`](https://doi.org/10.1145/3622841)**  
    Deligiannis, Pantazis and Lal, Akash and Mehrotra, Nikita and Poddar, Rishi and Rastogi, Aseem, *Proceedings of the ACM on Programming Languages, OOPSLA2 (2023), pp. 1224-1252.*
 
-
 8. **[`I wouldn't want my unsafe code to run my pacemaker: An Interview Study on the Use, Comprehension, and Perceived Risks of Unsafe Rust`](https://www.usenix.org/system/files/usenixsecurity23-holtervennhoff.pdf)**  
    Holtervennhoff, Sandra and Klostermeyer, Philip and Wohler, Noah and Acar, Yasemin and Fahl, Sascha, *32nd USENIX Security Symposium (USENIX Security 23) (2023), pp. 2509-2525*
 
@@ -243,8 +242,10 @@ Papers analyzing concurrent programming and memory safety guarantees.
    VanHattum, Alexa and Schwartz-Narbonne, Daniel and Chong, Nathan and Sampson, Adrian, *Proceedings of the 44th International Conference on Software Engineering: Software Engineering in Practice, (2022), pp. 321-330*
 
 7. **[`Pkru-safe: automatically locking down the heap between safe and unsafe languages`](https://dl.acm.org/doi/abs/10.1145/3492321.3519582)**  
-   Kirth, Paul and Dickerson, Mitchel and Crane, Stephen and Larsen, Per and Dabrowski, Adrian and Gens, David and Na, Yeoul and Volckaert, Stijn and Franz, Michael, *{Proceedings of the Seventeenth European Conference on Computer Systems, (2022), pp. 132-148*
+   Kirth, Paul and Dickerson, Mitchel and Crane, Stephen and Larsen, Per and Dabrowski, Adrian and Gens, David and Na, Yeoul and Volckaert, Stijn and Franz, Michael, *Proceedings of the Seventeenth European Conference on Computer Systems, (2022), pp. 132-148*
 
+8. **[`Towards understanding the runtime performance of rust`](https://doi.org/10.1145/3551349.3559494)**  
+   Zhang, Yuchen and Zhang, Yunhang and Portokalidis, Georgios and Xu, Jun, *Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering, (2022), pp. 1-6*
 
 
 ### 2021
@@ -282,6 +283,8 @@ Papers analyzing concurrent programming and memory safety guarantees.
 11. **[`RULF: Rust library fuzzing via API dependency graph traversal`](https://ieeexplore.ieee.org/abstract/document/9678813?casa_token=GZVQ40vnE9wAAAAA:lfyvN6zLjKS1iBPmu8vLkufAjgwf5pyK-zvLHFQzsOzwNo991KH3K3G2EwkO4VHXumljtoEyVx4)**  
    Jiang, Jianfeng and Xu, Hui and Zhou, Yangfan, *2021 36th IEEE/ACM International Conference on Automated Software Engineering (ASE), (2021), pp. 581-592*
 
+12. **[`Rupair: towards automatic buffer overflow detection and rectification for rust`](https://doi.org/10.1145/3485832.3485841)**  
+   Hua, Baojian and Ouyang, Wanrong and Jiang, Chengman and Fan, Qiliang and Pan, Zhizhong, *Proceedings of the 37th Annual Computer Security Applications Conference, (2021), pp. 812-823*
 
 
 ### 2020
