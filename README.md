@@ -311,7 +311,10 @@ Papers analyzing concurrent programming and memory safety guarantees.
 
 9. **[`VRust: Automated vulnerability detection for solana smart contracts`](https://dl.acm.org/doi/abs/10.1145/3548606.3560552)**  
    Cui, Siwei and Zhao, Gang and Gao, Yifei and Tavu, Tien and Huang, Jeff, *Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security, (2022), pp. 639-652*
-   
+
+10. **[`Comprehensiveness, Automation and Lifecycle: A New Perspective for Rust Security`](https://ieeexplore.ieee.org/abstract/document/10062361)**  
+   Hu, Shuang and Hua, Baojian and Wang, Yang, *IEEE 22nd International Conference on Software Quality, Reliability and Security (QRS), (2022), pp. 982-991*
+
 
 ### 2021
 
