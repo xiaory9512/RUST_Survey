@@ -134,7 +134,6 @@ Papers analyzing concurrent programming and memory safety guarantees.
     Giovannoni, Leonardo and Lettieri, Giuseppe and Procissi, Gregorio, *Proceedings of the ACM SIGCOMM 2025 Posters and Demos (2025), pp. 106-108*
 
 
-
 ### 2024
 
 1. **[`Validating Memory Safety in Rust Binaries`](https://arxiv.org/pdf/2506.15648)**  
@@ -244,6 +243,9 @@ Papers analyzing concurrent programming and memory safety guarantees.
 
 36. **[`Unleashing the power of clippy in real-world rust projects`](https://dl.acm.org/doi/pdf/10.1145/3639478.3643096)**  
    Li, Chunmiao and Yu, Yijun and Wu, Haitao and Carlig, Luca and Nie, Shijie and Jiang, Lingxiao, *Proceedings of the 2024 IEEE/ACM 46th International Conference on Software Engineering: Companion Proceedings (2024), pp. 318-319*
+
+37. **[`Is unsafe an Achilles' Heel? A Comprehensive Study of Safety Requirements in Unsafe Rust Programming`](https://dl.acm.org/doi/10.1145/3597503.3639136)**  
+   Cui, Mohan and Sun, Shuran and Xu, Hui and Zhou, Yangfan, *Proceedings of the IEEE/ACM 46th International Conference on Software Engineering (2024), pp. 1-13*
 
 
 ### 2023
