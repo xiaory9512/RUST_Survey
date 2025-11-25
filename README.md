@@ -237,8 +237,12 @@ Papers analyzing concurrent programming and memory safety guarantees.
 11. **[`An Analysis of the Rust Programming Practice for Memory Safety Assurance`](https://link.springer.com/chapter/10.1007/978-981-99-6222-8_37)**  
    Xu, Baowen and Chu, Bei and Fan, Hongcheng and Feng, Yang, *International Conference on Web Information Systems and Applications (2023), pp. 440-451*
 
+12. **[`Rustcheck: Safety Enhancement of Unsafe Rust via Dynamic Program Analysis`](https://ieeexplore.ieee.org/abstract/document/10429951)**  
+   Xia, Lei and Wu, Yufei and Hua, Baojian, *IEEE 23rd International Conference on Software Quality, Reliability, and Security Companion (QRS-C) (2023), pp. 871--872*
 
----
+13. **[`Understanding bugs in rust compilers`](https://ieeexplore.ieee.org/abstract/document/10366531)**  
+   Xia, Xinmeng and Feng, Yang and Shi, Qingkai, *IEEE 23rd International Conference on Software Quality, Reliability, and Security (QRS) (2023), pp. 138-149*
+
 
 ### 2022
 
