@@ -233,6 +233,9 @@ Papers analyzing concurrent programming and memory safety guarantees.
 34. **[`Beyond memory safety: an empirical study on bugs and fixes of rust programs`](https://ieeexplore.ieee.org/abstract/document/10684674)**  
    Zhang, Chengquan and Feng, Yang and Zhang, Yaokun and Dai, Yuxuan and Xu, Baowen, *IEEE 24th International Conference on Software Quality, Reliability and Security (QRS) (2024), 272-283*
 
+35. **[`Can Secure Software be developed in Rust? On Vulnerabilities and Secure Coding Guidelines`](https://ieeexplore.ieee.org/abstract/document/10684674)**  
+   Gasiba, Tiago Espinha and Amburi, Sathwik and Iosif, Andrei-Cristian, *International Journal on Advances in Security (2024), 53-71*
+
 
 ### 2023
 
