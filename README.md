@@ -112,6 +112,9 @@ Papers analyzing concurrent programming and memory safety guarantees.
 22. **[`rustc++: Facilitating Advanced Analysis of Rust Code`](https://dl.acm.org/doi/abs/10.1145/3722041.3723102)**
     Louka, Antonis and Portokalidis, Georgios and Athanasopoulos, Elias, *Proceedings of the 18th European Workshop on Systems Security (2025), pp. 63-69*
 
+23. **[`Securing Mixed Rust with Hardware Capabilities`](https://www.comp.nus.edu.sg/~prateeks/papers/CapsLock.pdf)**
+    Zhijingcheng Yu, Jason and Han, Fangqi and Choudhury, Kaustab and Carlson, Trevor E and Saxena, Prateek, *arXiv e-prints (2025)*
+
 
 
 ### 2024
