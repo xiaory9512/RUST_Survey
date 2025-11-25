@@ -119,8 +119,6 @@ Papers analyzing concurrent programming and memory safety guarantees.
     Ho, Son and Boisseau, Guillaume and Franceschino, Lucas and Prak, Yoann and Fromherz, Aymeric and Protzenko, Jonathan, *International Conference on Computer Aided Verification (2025), pp. 377-391*
 
 
-
-
 ### 2024
 
 1. **[`Validating Memory Safety in Rust Binaries`](https://arxiv.org/pdf/2506.15648)**  
@@ -206,6 +204,9 @@ Papers analyzing concurrent programming and memory safety guarantees.
 
 28. **[`Towards Understanding Rust in the Era of AI for Science at an Ecosystem Scale`](https://ieeexplore.ieee.org/abstract/document/10653388)**  
    Kayondo, Martin and Bang, Inyoung and Kwak, Yeongjun and Moon, Hyungon and Paek, Yunheung, *6th International Conference on Communications, Information System and Computer Engineering (CISCE) (2024), pp. 1450-1455*
+
+29. **[`Fearless Unsafe. A More User-friendly Document for Unsafe Rust Programming Base on Refined Safety Properties`](https://arxiv.org/abs/2412.06251)**  
+   Cui, Mohan and Mao, Penglei and Sun, Shuran and Zhou, Yangfan and Xu, Hui, *arXiv preprint arXiv:2412.06251 (2024)*
 
 
 ### 2023
