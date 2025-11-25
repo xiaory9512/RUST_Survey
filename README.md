@@ -124,6 +124,9 @@ Papers analyzing concurrent programming and memory safety guarantees.
 26. **[`RUST: A Memory Leakage-Proof Way of Building Applications`](https://sarcouncil.com/2025/09/rust-a-memory-leakage-proof-way-of-building-applications)**
     Gadkari, Bhooshan Ravikumar, *Journal Of Engineering And Computer Sciences (2025), pp. 10-15*
 
+27. **[`Demystifying Rust Unstable Features at Ecosystem Scale: Evolution, Propagation, and Mitigation`](https://ieeexplore.ieee.org/abstract/document/10919478)**
+    Li, Chenghao and Wu, Yifei and Shen, Wenbo and Chang, Rui and Liu, Chengwei and Liu, Yang, *IEEE Transactions on Software Engineering (2025)*
+
 
 
 ### 2024
