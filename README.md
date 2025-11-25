@@ -214,6 +214,10 @@ Papers analyzing concurrent programming and memory safety guarantees.
 31. **[`A Study of Undefined Behavior Across Foreign Function Boundaries in Rust Libraries`](https://arxiv.org/abs/2404.11671)**  
    McCormack, Ian and Sunshine, Joshua and Aldrich, Jonathan, *arXiv preprint arXiv:2404.11671 (2024)*
 
+32. **[`A context-sensitive pointer analysis framework for Rust and its application to call graph construction`](https://dl.acm.org/doi/abs/10.1145/3640537.3641574)**  
+   Li, Wei and He, Dongjie and Gui, Yujiang and Chen, Wenguang and Xue, Jingling, *Proceedings of the 33rd ACM SIGPLAN International Conference on Compiler Construction (2024), pp. 60-72*
+
+
 
 ### 2023
 
