@@ -231,6 +231,9 @@ Papers analyzing concurrent programming and memory safety guarantees.
 10. **[`On the dual nature of necessity in use of Rust unsafe code`](https://dl.acm.org/doi/abs/10.1145/3611643.3613878)**  
    Zhang, Yuchen and Kundu, Ashish and Portokalidis, Georgios and Xu, Jun, *Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (2023), pp. 2032-2037*
 
+11. **[`An Analysis of the Rust Programming Practice for Memory Safety Assurance`](https://link.springer.com/chapter/10.1007/978-981-99-6222-8_37)**  
+   Xu, Baowen and Chu, Bei and Fan, Hongcheng and Feng, Yang, *International Conference on Web Information Systems and Applications (2023), pp. 440-451*
+
 
 ---
 
