@@ -281,7 +281,8 @@ Papers analyzing concurrent programming and memory safety guarantees.
 14. **[`Fuzz Testing for Rust Library Functions`](https://ieeexplore.ieee.org/abstract/document/10538774)**  
    Guo, Yongjian and Xiao, Xi and Lin, Yuanyi and Li, Hao and Wu, Xiangbo and Zhou, Tao, *IEEE 22nd International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom) (2023), pp. 990-997*
 
-
+14. **[`Grading on a curve: How Rust can facilitate new contributors while decreasing vulnerabilities`](https://ieeexplore.ieee.org/abstract/document/10305621)**  
+   Tracey, Justin and Goldberg, Ian, *IEEE Secure Development Conference (SecDev) (2023), pp. 26-36*
 
 ### 2022
 
