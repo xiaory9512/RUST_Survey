@@ -363,6 +363,9 @@ Papers analyzing concurrent programming and memory safety guarantees.
 12. **[`Rupair: towards automatic buffer overflow detection and rectification for rust`](https://doi.org/10.1145/3485832.3485841)**  
    Hua, Baojian and Ouyang, Wanrong and Jiang, Chengman and Fan, Qiliang and Pan, Zhizhong, *Proceedings of the 37th Annual Computer Security Applications Conference, (2021), pp. 812-823*
 
+13. **[`Modular specification and verification of closures in Rust`](https://dl.acm.org/doi/10.1145/3485522)**  
+   Wolff, Fabian and B{\'\i}l{\`y}, Aurel and Matheja, Christoph and M{\"u}ller, Peter and Summers, Alexander J, *Proceedings of the ACM on Programming Languages (OOPSLA), (2021), pp. 1-29*
+
 
 ### 2020
 
