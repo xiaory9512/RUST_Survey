@@ -247,6 +247,9 @@ Papers analyzing concurrent programming and memory safety guarantees.
 37. **[`Is unsafe an Achilles' Heel? A Comprehensive Study of Safety Requirements in Unsafe Rust Programming`](https://dl.acm.org/doi/10.1145/3597503.3639136)**  
    Cui, Mohan and Sun, Shuran and Xu, Hui and Zhou, Yangfan, *Proceedings of the IEEE/ACM 46th International Conference on Software Engineering (2024), pp. 1-13*
 
+38. **[`Improving Memory Management, Performance with Rust: Why Rust is becoming the programming language of choice for many high-level developers`](https://dl.acm.org/doi/10.1145/3673648)**  
+  Williams, Alex, *Communications of the ACM (2024), pp. 8-9*
+
 
 ### 2023
 
