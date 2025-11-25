@@ -222,6 +222,10 @@ Papers analyzing concurrent programming and memory safety guarantees.
 9. **[`A Comparative Analysis of Rust-Based SGX Frameworks: Implications for Building SGX Applications`](https://link.springer.com/chapter/10.1007/978-981-97-1238-0_1)**  
    Shin, Heekyung and Ock, Jiwon and No, Hyeon and Kim, Seongmin, *International Conference on Information Security and Cryptology (2023), pp. 3-19*
 
+10. **[`On the dual nature of necessity in use of Rust unsafe code`](https://dl.acm.org/doi/abs/10.1145/3611643.3613878)**  
+   Zhang, Yuchen and Kundu, Ashish and Portokalidis, Georgios and Xu, Jun, *Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (2023), pp. 2032-2037*
+
+
 ---
 
 ### 2022
