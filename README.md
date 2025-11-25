@@ -118,6 +118,13 @@ Papers analyzing concurrent programming and memory safety guarantees.
 24. **[`Charon: an analysis framework for rust`](https://link.springer.com/chapter/10.1007/978-3-031-98685-7_18)**
     Ho, Son and Boisseau, Guillaume and Franceschino, Lucas and Prak, Yoann and Fromherz, Aymeric and Protzenko, Jonathan, *International Conference on Computer Aided Verification (2025), pp. 377-391*
 
+25. **[`SBD: Securing safe rust automatically from unsafe rust`](https://www.sciencedirect.com/science/article/pii/S0167642325000206)**
+    Li, Shaowen and Sato, Hiroyuiki, *Science of Computer Programming (2025), pp. 377-391*
+
+26. **[`RUST: A Memory Leakage-Proof Way of Building Applications`](https://sarcouncil.com/2025/09/rust-a-memory-leakage-proof-way-of-building-applications)**
+    Gadkari, Bhooshan Ravikumar, *Journal Of Engineering And Computer Sciences (2025), pp. 10-15*
+
+
 
 ### 2024
 
@@ -217,6 +224,8 @@ Papers analyzing concurrent programming and memory safety guarantees.
 32. **[`A context-sensitive pointer analysis framework for Rust and its application to call graph construction`](https://dl.acm.org/doi/abs/10.1145/3640537.3641574)**  
    Li, Wei and He, Dongjie and Gui, Yujiang and Chen, Wenguang and Xue, Jingling, *Proceedings of the 33rd ACM SIGPLAN International Conference on Compiler Construction (2024), pp. 60-72*
 
+33. **[`Static deadlock detection for rust programs`](https://arxiv.org/abs/2401.01114)**  
+   Zhang, Yu and Zhang, Kaiwen and Liu, Guanjun, *arXiv preprint arXiv:2401.01114 (2024)*
 
 
 ### 2023
