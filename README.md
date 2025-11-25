@@ -381,6 +381,10 @@ Papers analyzing concurrent programming and memory safety guarantees.
 5. **[`Understanding and evolving the Rust programming language`](https://universaar.uni-saarland.de/handle/20.500.11880/29647)**  
    Jung, Ralf, *Dizertavcna praca. Saarland University, (2020)* 
 
+6. **[`VRLifeTime--An IDE Tool to Avoid Concurrency and Memory Bugs in Rust`](https://dl.acm.org/doi/10.1145/3372297.3420024)**  
+   Zhang, Ziyi and Qin, Boqin and Chen, Yilun and Song, Linhai and Zhang, Yiying, *Proceedings of the 2020 ACM SIGSAC Conference on Computer and Communications Security, (2020), pp. 2085-2087* 
+
+
 ---
 
 ## Statistics
