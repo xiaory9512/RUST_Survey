@@ -127,6 +127,9 @@ Papers analyzing concurrent programming and memory safety guarantees.
 27. **[`Demystifying Rust Unstable Features at Ecosystem Scale: Evolution, Propagation, and Mitigation`](https://ieeexplore.ieee.org/abstract/document/10919478)**
     Li, Chenghao and Wu, Yifei and Shen, Wenbo and Chang, Rui and Liu, Chengwei and Liu, Yang, *IEEE Transactions on Software Engineering (2025)*
 
+28. **[`Demystifying Rust Unstable Features at Ecosystem Scale: Evolution, Propagation, and Mitigation`]([https://ieeexplore.ieee.org/abstract/document/10919478](https://dl.acm.org/doi/10.1145/3735592))**
+    Villani, Neven and Hostert, Johannes and Dreyer, Derek and Jung, Ralf, *Proceedings of the ACM on Programming Languages (2025), pp. 1019-1042*
+
 
 ### 2024
 
