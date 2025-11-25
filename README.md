@@ -360,7 +360,8 @@ Papers analyzing concurrent programming and memory safety guarantees.
 4. **[`Securing unsafe rust programs with XRust`](https://doi.org/10.1145/3377811.3380325)**  
    Liu, Peiming and Zhao, Gang and Huang, Jeff, *Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering, (2020), pp. 234-245.* 
 
-   
+5. **[`Understanding and evolving the Rust programming language`](https://universaar.uni-saarland.de/handle/20.500.11880/29647)**  
+   Jung, Ralf, *Dizertavcna praca. Saarland University, (2020)* 
 
 ---
 
