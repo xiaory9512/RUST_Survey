@@ -230,6 +230,9 @@ Papers analyzing concurrent programming and memory safety guarantees.
 33. **[`Static deadlock detection for rust programs`](https://arxiv.org/abs/2401.01114)**  
    Zhang, Yu and Zhang, Kaiwen and Liu, Guanjun, *arXiv preprint arXiv:2401.01114 (2024)*
 
+34. **[`Beyond memory safety: an empirical study on bugs and fixes of rust programs`](https://ieeexplore.ieee.org/abstract/document/10684674)**  
+   Zhang, Chengquan and Feng, Yang and Zhang, Yaokun and Dai, Yuxuan and Xu, Baowen, *IEEE 24th International Conference on Software Quality, Reliability and Security (QRS) (2024), 272-283*
+
 
 ### 2023
 
