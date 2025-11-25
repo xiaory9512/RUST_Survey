@@ -211,6 +211,10 @@ Papers analyzing concurrent programming and memory safety guarantees.
 30. **[`Characterizing Unsafe Code Encapsulation In Real-world Rust Systems`](https://arxiv.org/abs/2406.07936)**  
    Rao, Zihao and Yang, Yiran and Xu, Hui, *arXiv preprint arXiv:2406.07936 (2024)*
 
+31. **[`A Study of Undefined Behavior Across Foreign Function Boundaries in Rust Libraries`](https://arxiv.org/abs/2404.11671)**  
+   McCormack, Ian and Sunshine, Joshua and Aldrich, Jonathan, *arXiv preprint arXiv:2404.11671 (2024)*
+
+
 ### 2023
 
 1. **[`A closer look at the security risks in the rust ecosystem`](https://doi.org/10.1145/3624738)**  
