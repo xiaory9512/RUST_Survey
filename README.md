@@ -106,6 +106,10 @@ Papers analyzing concurrent programming and memory safety guarantees.
 20. **[`Vest: Verified, secure, high-performance parsing and serialization for Rust`](https://www.andrew.cmu.edu/user/bparno/papers/vest.pdf)**
     Cai, Yi and Singh, Pratap and Lin, Zhengyao and Bosamiya, Jay and Gancher, Joshua and Surbatovich, Milijana and Parno, Bryan and Model, Reviewing, *Proceedings of the USENIX Security Symposium (2025)*
 
+21. **[`Enhancing Type Safety in MPI with Rust: A Statically Verified Approach for RSMPI`](https://link.springer.com/chapter/10.1007/978-3-031-97196-9_11)**
+    Iqbal, Nafees and Brown, Jed, *Workshop on Asynchronous Many-Task Systems and Applications (2025), pp. 133-139*
+
+
 
 
 ### 2024
