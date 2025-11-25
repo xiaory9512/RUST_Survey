@@ -208,6 +208,8 @@ Papers analyzing concurrent programming and memory safety guarantees.
 29. **[`Fearless Unsafe. A More User-friendly Document for Unsafe Rust Programming Base on Refined Safety Properties`](https://arxiv.org/abs/2412.06251)**  
    Cui, Mohan and Mao, Penglei and Sun, Shuran and Zhou, Yangfan and Xu, Hui, *arXiv preprint arXiv:2412.06251 (2024)*
 
+30. **[`Characterizing Unsafe Code Encapsulation In Real-world Rust Systems`](https://arxiv.org/abs/2406.07936)**  
+   Rao, Zihao and Yang, Yiran and Xu, Hui, *arXiv preprint arXiv:2406.07936 (2024)*
 
 ### 2023
 
