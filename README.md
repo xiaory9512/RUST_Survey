@@ -115,6 +115,10 @@ Papers analyzing concurrent programming and memory safety guarantees.
 23. **[`Securing Mixed Rust with Hardware Capabilities`](https://www.comp.nus.edu.sg/~prateeks/papers/CapsLock.pdf)**
     Zhijingcheng Yu, Jason and Han, Fangqi and Choudhury, Kaustab and Carlson, Trevor E and Saxena, Prateek, *arXiv e-prints (2025)*
 
+24. **[`Charon: an analysis framework for rust`](https://link.springer.com/chapter/10.1007/978-3-031-98685-7_18)**
+    Ho, Son and Boisseau, Guillaume and Franceschino, Lucas and Prak, Yoann and Fromherz, Aymeric and Protzenko, Jonathan, *International Conference on Computer Aided Verification (2025), pp. 377-391*
+
+
 
 
 ### 2024
