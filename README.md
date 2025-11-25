@@ -243,6 +243,10 @@ Papers analyzing concurrent programming and memory safety guarantees.
 13. **[`Understanding bugs in rust compilers`](https://ieeexplore.ieee.org/abstract/document/10366531)**  
    Xia, Xinmeng and Feng, Yang and Shi, Qingkai, *IEEE 23rd International Conference on Software Quality, Reliability, and Security (QRS) (2023), pp. 138-149*
 
+14. **[`Fuzz Testing for Rust Library Functions`](https://ieeexplore.ieee.org/abstract/document/10538774)**  
+   Guo, Yongjian and Xiao, Xi and Lin, Yuanyi and Li, Hao and Wu, Xiangbo and Zhou, Tao, *IEEE 22nd International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom) (2023), pp. 990-997*
+
+
 
 ### 2022
 
