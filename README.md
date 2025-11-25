@@ -240,7 +240,10 @@ Papers analyzing concurrent programming and memory safety guarantees.
    Zhang, Chengquan and Feng, Yang and Zhang, Yaokun and Dai, Yuxuan and Xu, Baowen, *IEEE 24th International Conference on Software Quality, Reliability and Security (QRS) (2024), 272-283*
 
 35. **[`Can Secure Software be developed in Rust? On Vulnerabilities and Secure Coding Guidelines`](https://ieeexplore.ieee.org/abstract/document/10684674)**  
-   Gasiba, Tiago Espinha and Amburi, Sathwik and Iosif, Andrei-Cristian, *International Journal on Advances in Security (2024), 53-71*
+   Gasiba, Tiago Espinha and Amburi, Sathwik and Iosif, Andrei-Cristian, *International Journal on Advances in Security (2024), pp. 53-71*
+
+36. **[`Unleashing the power of clippy in real-world rust projects`](https://dl.acm.org/doi/pdf/10.1145/3639478.3643096)**  
+   Li, Chunmiao and Yu, Yijun and Wu, Haitao and Carlig, Luca and Nie, Shijie and Jiang, Lingxiao, *Proceedings of the 2024 IEEE/ACM 46th International Conference on Software Engineering: Companion Proceedings (2024), pp. 318-319*
 
 
 ### 2023
@@ -290,6 +293,8 @@ Papers analyzing concurrent programming and memory safety guarantees.
 15. **[`Rust for embedded systems: Current state, challenges and open problems`](https://arxiv.org/abs/2311.05063)**  
    Sharma, Ayushi and Sharma, Shashank and Torres-Arias, Santiago and Machiry, Aravind, *arXiv preprint arXiv:2311.05063 (2023)*
 
+16. **[`Panic Recovery in Rust-based Embedded Systems`](https://dl.acm.org/doi/10.1145/3623759.3624549)**  
+   Ma, Zhiyao and Chen, Guojun and Zhong, Lin, *Proceedings of the 12th Workshop on Programming Languages and Operating Systems (2023), pp. 66-73*
 
 
 ### 2022
