@@ -128,7 +128,6 @@ Papers analyzing concurrent programming and memory safety guarantees.
     Li, Chenghao and Wu, Yifei and Shen, Wenbo and Chang, Rui and Liu, Chengwei and Liu, Yang, *IEEE Transactions on Software Engineering (2025)*
 
 
-
 ### 2024
 
 1. **[`Validating Memory Safety in Rust Binaries`](https://arxiv.org/pdf/2506.15648)**  
@@ -281,8 +280,10 @@ Papers analyzing concurrent programming and memory safety guarantees.
 14. **[`Fuzz Testing for Rust Library Functions`](https://ieeexplore.ieee.org/abstract/document/10538774)**  
    Guo, Yongjian and Xiao, Xi and Lin, Yuanyi and Li, Hao and Wu, Xiangbo and Zhou, Tao, *IEEE 22nd International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom) (2023), pp. 990-997*
 
-14. **[`Grading on a curve: How Rust can facilitate new contributors while decreasing vulnerabilities`](https://ieeexplore.ieee.org/abstract/document/10305621)**  
-   Tracey, Justin and Goldberg, Ian, *IEEE Secure Development Conference (SecDev) (2023), pp. 26-36*
+15. **[`Rust for embedded systems: Current state, challenges and open problems`](https://arxiv.org/abs/2311.05063)**  
+   Sharma, Ayushi and Sharma, Shashank and Torres-Arias, Santiago and Machiry, Aravind, *arXiv preprint arXiv:2311.05063 (2023)*
+
+
 
 ### 2022
 
