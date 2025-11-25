@@ -109,6 +109,8 @@ Papers analyzing concurrent programming and memory safety guarantees.
 21. **[`Enhancing Type Safety in MPI with Rust: A Statically Verified Approach for RSMPI`](https://link.springer.com/chapter/10.1007/978-3-031-97196-9_11)**
     Iqbal, Nafees and Brown, Jed, *Workshop on Asynchronous Many-Task Systems and Applications (2025), pp. 133-139*
 
+22. **[`rustc++: Facilitating Advanced Analysis of Rust Code`](https://dl.acm.org/doi/abs/10.1145/3722041.3723102)**
+    Louka, Antonis and Portokalidis, Georgios and Athanasopoulos, Elias, *Proceedings of the 18th European Workshop on Systems Security (2025), pp. 63-69*
 
 
 
