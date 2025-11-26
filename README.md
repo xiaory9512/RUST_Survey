@@ -136,6 +136,7 @@ Papers analyzing concurrent programming and memory safety guarantees.
 30. **[`Clozemaster: Fuzzing rust compiler by harnessing llms for infilling masked real programs`](https://dl.acm.org/doi/10.1109/ICSE55347.2025.00175)**
     Gao, Hongyan and Yang, Yibiao and Sun, Maolin and Wu, Jiangchang and Zhou, Yuming and Xu, Baowen, *IEEE/ACM 47th International Conference on Software Engineering (ICSE), (2025), pp. 712-712*
 
+
 ### 2024
 
 1. **[`Validating Memory Safety in Rust Binaries`](https://arxiv.org/pdf/2506.15648)**  
@@ -255,6 +256,8 @@ Papers analyzing concurrent programming and memory safety guarantees.
 39. **[`Rust-lancet: Automated ownership-rule-violation fixing with behavior preservation`](https://dl.acm.org/doi/10.1145/3597503.3639103)**  
  Yang, Wenzhang and Song, Linhai and Xue, Yinxing, *Proceedings of the IEEE/ACM 46th International Conference on Software Engineering (2024), pp. 1-13*
 
+40. **[`Sound Borrow-Checking for Rust via Symbolic Semantics`](https://dl.acm.org/doi/10.1145/3674640)**  
+ Ho, Son and Fromherz, Aymeric and Protzenko, Jonathan, *Proceedings of the ACM on Programming Languages (2024), pp. 426-454*
 
 ### 2023
 
