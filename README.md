@@ -313,6 +313,9 @@ Papers analyzing concurrent programming and memory safety guarantees.
 20. **[`Flux: Liquid types for rust`](https://dl.acm.org/doi/10.1145/3591283)**  
    Lehmann, Nico and Geller, Adam T and Vazou, Niki and Jhala, Ranjit, *Proceedings of the ACM on Programming Languages (2023), pp. 1533-1557*
 
+21. **[`Leveraging rust types for program synthesis`](https://dl.acm.org/doi/10.1145/3591278)**  
+   Fiala, Jon{\'a}{\v{s}} and Itzhaky, Shachar and M{\"u}ller, Peter and Polikarpova, Nadia and Sergey, Ilya, *Proceedings of the ACM on Programming Languages (2023), pp. 1414-1437*
+
 
 ### 2022
 
