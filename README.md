@@ -250,6 +250,9 @@ Papers analyzing concurrent programming and memory safety guarantees.
 38. **[`Improving Memory Management, Performance with Rust: Why Rust is becoming the programming language of choice for many high-level developers`](https://dl.acm.org/doi/10.1145/3673648)**  
   Williams, Alex, *Communications of the ACM (2024), pp. 8-9*
 
+39. **[`Rust-lancet: Automated ownership-rule-violation fixing with behavior preservation`](https://dl.acm.org/doi/10.1145/3597503.3639103)**  
+ Yang, Wenzhang and Song, Linhai and Xue, Yinxing, *Proceedings of the IEEE/ACM 46th International Conference on Software Engineering (2024), pp. 1-13*
+
 
 ### 2023
 
