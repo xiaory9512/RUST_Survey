@@ -136,8 +136,12 @@ Papers analyzing concurrent programming and memory safety guarantees.
 30. **[`Clozemaster: Fuzzing rust compiler by harnessing llms for infilling masked real programs`](https://dl.acm.org/doi/10.1109/ICSE55347.2025.00175)**
     Gao, Hongyan and Yang, Yibiao and Sun, Maolin and Wu, Jiangchang and Zhou, Yuming and Xu, Baowen, *IEEE/ACM 47th International Conference on Software Engineering (ICSE), (2025)*
 
-31. **[`Thrust: A Prophecy-Based Refinement Type System for Rust`]([https://dl.acm.org/doi/10.1109/ICSE55347.2025.00175](https://dl.acm.org/doi/10.1145/3729333))**
+31. **[`Thrust: A Prophecy-Based Refinement Type System for Rust`](https://dl.acm.org/doi/10.1145/3729333)**
     Ogawa, Hiromi and Sekiyama, Taro and Unno, Hiroshi, *Proceedings of the ACM on Programming Languages (2025), pp. 2056-2080*
+
+32. **[`A hybrid approach to semi-automated Rust verification`](https://dl.acm.org/doi/10.1145/3729289)**
+    Ayoun, Sacha-{\'E}lie and Denis, Xavier and Maksimovi{\'c}, Petar and Gardner, Philippa, *Proceedings of the ACM on Programming Languages (2025), pp. 970-992*
+
 
 ### 2024
 
