@@ -307,6 +307,9 @@ Papers analyzing concurrent programming and memory safety guarantees.
 18. **[`Encapsulated functions: fortifying rust's ffi in embedded systems`](https://dl.acm.org/doi/10.1145/3625275.3625397)**  
    Schuermann, Leon and Thomas, Arun and Levy, Amit, *Proceedings of the 1st Workshop on Kernel Isolation, Safety and Verification (2023), pp. 41-48*
 
+19. **[`Symrustc: A hybrid fuzzer for rust`](https://dl.acm.org/doi/10.1145/3597926.3604927)**  
+   Tuong, Fr{\'e}d{\'e}ric and Omidvar Tehrani, Mohammad and Gaboardi, Marco and Ko, Steven Y, *Proceedings of the 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis (2023), pp. 1515-1518*
+
 
 ### 2022
 
