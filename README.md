@@ -301,6 +301,8 @@ Papers analyzing concurrent programming and memory safety guarantees.
 16. **[`Panic Recovery in Rust-based Embedded Systems`](https://dl.acm.org/doi/10.1145/3623759.3624549)**  
    Ma, Zhiyao and Chen, Guojun and Zhong, Lin, *Proceedings of the 12th Workshop on Programming Languages and Operating Systems (2023), pp. 66-73*
 
+17. **[`Verus: Verifying rust programs using linear ghost types`](https://doi.org/10.1145/3586037)**  
+   Lattuada, Andrea and Hance, Travis and Cho, Chanhee and Brun, Matthias and Subasinghe, Isitha and Zhou, Yi and Howell, Jon and Parno, Bryan and Hawblitzel, Chris, *Proceedings of the ACM on Programming Languages (OOPSLA1), (2023), pp. 286-315*
 
 ### 2022
 
