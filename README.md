@@ -304,6 +304,10 @@ Papers analyzing concurrent programming and memory safety guarantees.
 17. **[`Verus: Verifying rust programs using linear ghost types`](https://doi.org/10.1145/3586037)**  
    Lattuada, Andrea and Hance, Travis and Cho, Chanhee and Brun, Matthias and Subasinghe, Isitha and Zhou, Yi and Howell, Jon and Parno, Bryan and Hawblitzel, Chris, *Proceedings of the ACM on Programming Languages (OOPSLA1), (2023), pp. 286-315*
 
+18. **[`Encapsulated functions: fortifying rust's ffi in embedded systems`](https://dl.acm.org/doi/10.1145/3625275.3625397)**  
+   Schuermann, Leon and Thomas, Arun and Levy, Amit, *Proceedings of the 1st Workshop on Kernel Isolation, Safety and Verification (2023), pp. 41-48*
+
+
 ### 2022
 
 1. **[`Learning and programming challenges of rust: A mixed-methods study`](https://doi.org/10.1145/3510003.3510164)**  
