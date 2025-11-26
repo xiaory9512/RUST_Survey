@@ -142,6 +142,9 @@ Papers analyzing concurrent programming and memory safety guarantees.
 32. **[`A hybrid approach to semi-automated Rust verification`](https://dl.acm.org/doi/10.1145/3729289)**
     Ayoun, Sacha-{\'E}lie and Denis, Xavier and Maksimovi{\'c}, Petar and Gardner, Philippa, *Proceedings of the ACM on Programming Languages (2025), pp. 970-992*
 
+33. **[`Place Capability Graphs: A General-Purpose Model of Rust’s Ownership and Borrowing Guarantees`](https://dl.acm.org/doi/10.1145/3763122)**
+    Grannan, Zachary and B{\'\i}l{\`y}, Aurel and Fiala, Jon{\'a}{\v{s}} and Geer, Jasper and de Medeiros, Markus and M{\"u}ller, Peter and Summers, Alexander J, *Proceedings of the ACM on Programming Languages (OOPSLA2), (2025), pp. 2002-2029*
+
 
 ### 2024
 
