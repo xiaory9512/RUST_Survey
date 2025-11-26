@@ -133,6 +133,8 @@ Papers analyzing concurrent programming and memory safety guarantees.
 29. **[`Bringing Memory Safety Close to the Wire`](https://dl.acm.org/doi/10.1145/3744969.3748444)**
     Giovannoni, Leonardo and Lettieri, Giuseppe and Procissi, Gregorio, *Proceedings of the ACM SIGCOMM 2025 Posters and Demos (2025), pp. 106-108*
 
+30. **[`Clozemaster: Fuzzing rust compiler by harnessing llms for infilling masked real programs`](https://dl.acm.org/doi/10.1109/ICSE55347.2025.00175)**
+    Gao, Hongyan and Yang, Yibiao and Sun, Maolin and Wu, Jiangchang and Zhou, Yuming and Xu, Baowen, *IEEE/ACM 47th International Conference on Software Engineering (ICSE), (2025), pp. 712-712*
 
 ### 2024
 
