@@ -310,6 +310,9 @@ Papers analyzing concurrent programming and memory safety guarantees.
 19. **[`Symrustc: A hybrid fuzzer for rust`](https://dl.acm.org/doi/10.1145/3597926.3604927)**  
    Tuong, Fr{\'e}d{\'e}ric and Omidvar Tehrani, Mohammad and Gaboardi, Marco and Ko, Steven Y, *Proceedings of the 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis (2023), pp. 1515-1518*
 
+20. **[`Flux: Liquid types for rust`](https://dl.acm.org/doi/10.1145/3591283)**  
+   Lehmann, Nico and Geller, Adam T and Vazou, Niki and Jhala, Ranjit, *Proceedings of the ACM on Programming Languages (2023), pp. 1533-1557*
+
 
 ### 2022
 
