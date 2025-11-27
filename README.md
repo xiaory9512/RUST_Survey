@@ -265,6 +265,10 @@ Papers analyzing concurrent programming and memory safety guarantees.
 40. **[`Sound Borrow-Checking for Rust via Symbolic Semantics`](https://dl.acm.org/doi/10.1145/3674640)**  
  Ho, Son and Fromherz, Aymeric and Protzenko, Jonathan, *Proceedings of the ACM on Programming Languages (2024), pp. 426-454*
 
+41. **[`Counterexamples in Safe Rust`](https://dl.acm.org/doi/10.1145/3691621.3694943)**  
+ Hassnain, Muhammad and Stanford, Caleb, *Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering Workshops (2024), pp. 128-135*
+
+
 ### 2023
 
 1. **[`A closer look at the security risks in the rust ecosystem`](https://doi.org/10.1145/3624738)**  
