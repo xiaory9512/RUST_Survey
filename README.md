@@ -274,6 +274,9 @@ Papers analyzing concurrent programming and memory safety guarantees.
 42. **[`When Is Parallelism Fearless and Zero-Cost with Rust?`](https://dl.acm.org/doi/10.1145/3626183.3659966)**  
  Abdi, Javad and Posluns, Gilead and Zhang, Guozheng and Wang, Boxuan and Jeffrey, Mark C, *Proceedings of the 36th ACM Symposium on Parallelism in Algorithms and Architectures (2024), pp. 27-40*
 
+43. **[`An Empirical Study of $\{$Rust-for-Linux$\}$: The Success, Dissatisfaction, and Compromise`](https://www.usenix.org/system/files/atc24-li-hongyu.pdf)**  
+ Li, Hongyu and Guo, Liwei and Yang, Yexuan and Wang, Shangguang and Xu, Mengwei, *USENIX Annual Technical Conference (USENIX ATC (2024), pp. 425-443*
+
 
 ### 2023
 
