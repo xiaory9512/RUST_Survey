@@ -268,6 +268,9 @@ Papers analyzing concurrent programming and memory safety guarantees.
 41. **[`Counterexamples in Safe Rust`](https://dl.acm.org/doi/10.1145/3691621.3694943)**  
  Hassnain, Muhammad and Stanford, Caleb, *Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering Workshops (2024), pp. 128-135*
 
+42. **[`When Is Parallelism Fearless and Zero-Cost with Rust?`](https://dl.acm.org/doi/10.1145/3626183.3659966)**  
+ Abdi, Javad and Posluns, Gilead and Zhang, Guozheng and Wang, Boxuan and Jeffrey, Mark C, *Proceedings of the 36th ACM Symposium on Parallelism in Algorithms and Architectures (2024), pp. 27-40*
+
 
 ### 2023
 
