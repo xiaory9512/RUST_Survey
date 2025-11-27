@@ -148,7 +148,10 @@ Papers analyzing concurrent programming and memory safety guarantees.
 33. **[`Annotating and Auditing the Safety Properties of Unsafe Rust`](https://arxiv.org/pdf/2503.23985.pdf)**
     Rao, Zihao and Tian, Hongliang and Wang, Xin and Xu, Hui, *arXiv preprint arXiv:2503.23985 (2025)*
 
-    
+34. **[`Petri Nets-based Methods on Automatically Detecting Rust Concurrency Bugs`](https://arxiv.org/pdf/2212.02754.pdf)**
+    Wang, Yuxiang and Zhang, Tao and others, *arXiv preprint arXiv:2212.02754 (2025)*
+
+
 ### 2024
 
 1. **[`Validating Memory Safety in Rust Binaries`](https://arxiv.org/pdf/2506.15648)**  
