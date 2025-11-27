@@ -142,8 +142,11 @@ Papers analyzing concurrent programming and memory safety guarantees.
 32. **[`A hybrid approach to semi-automated Rust verification`](https://dl.acm.org/doi/10.1145/3729289)**
     Ayoun, Sacha-{\'E}lie and Denis, Xavier and Maksimovi{\'c}, Petar and Gardner, Philippa, *Proceedings of the ACM on Programming Languages (2025), pp. 970-992*
 
-32. **[`An Empirical Study of Rust-Specific Bugs in the rustc Compiler`](https://arxiv.org/pdf/2503.23985.pdf)**
-    Liu, Zixi and Feng, Yang and Ni, Yunbo and Li, Shaohua and Yin, Xizhe and Shi, Qingkai and Xu, Baowen and Su, Zhendong, *arXiv preprint arXiv:2503.23985 (2025)*
+32. **[`An Empirical Study of Rust-Specific Bugs in the rustc Compiler`](https://arxiv.org/abs/2504.21312)**
+    Liu, Zixi and Feng, Yang and Ni, Yunbo and Li, Shaohua and Yin, Xizhe and Shi, Qingkai and Xu, Baowen and Su, Zhendong, *arXiv preprint arXiv:2504.21312 (2025)*
+
+33. **[`Annotating and Auditing the Safety Properties of Unsafe Rust`](https://arxiv.org/pdf/2503.23985.pdf)**
+    Rao, Zihao and Tian, Hongliang and Wang, Xin and Xu, Hui, *arXiv preprint arXiv:2503.23985 (2025)*
 
     
 ### 2024
