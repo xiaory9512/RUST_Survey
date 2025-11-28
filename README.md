@@ -284,7 +284,7 @@ Papers analyzing concurrent programming and memory safety guarantees.
  Abdi, Javad and Posluns, Gilead and Zhang, Guozheng and Wang, Boxuan and Jeffrey, Mark C, *Proceedings of the 36th ACM Symposium on Parallelism in Algorithms and Architectures (2024), pp. 27-40*
 
 43. **[`An Empirical Study of $\{$Rust-for-Linux$\}$: The Success, Dissatisfaction, and Compromise`](https://www.usenix.org/system/files/atc24-li-hongyu.pdf)**  
- Li, Hongyu and Guo, Liwei and Yang, Yexuan and Wang, Shangguang and Xu, Mengwei, *USENIX Annual Technical Conference (USENIX ATC (2024), pp. 425-443*
+ Li, Hongyu and Guo, Liwei and Yang, Yexuan and Wang, Shangguang and Xu, Mengwei, *USENIX Annual Technical Conference (USENIX ATC) (2024), pp. 425-443*
 
 
 ### 2023
@@ -358,6 +358,9 @@ Papers analyzing concurrent programming and memory safety guarantees.
 23. **[`Automatically enforcing rust trait properties`](https://link.springer.com/chapter/10.1007/978-3-031-50521-8_10)**  
    Byrnes, Twain and Takashima, Yoshiki and Jia, Limin, *International Conference on Verification, Model Checking, and Abstract Interpretation (2023), pp. 210-223*
 
+44. **[`ConDRust: Scalable Deterministic Concurrency from Verifiable Rust Programs`](https://drops.dagstuhl.de/storage/00lipics/lipics-vol263-ecoop2023/LIPIcs.ECOOP.2023.33/LIPIcs.ECOOP.2023.33.pdf
+)**  
+ Suchert, Felix and Zeidler, Lisza and Castrillon, Jeronimo and Ertel, Sebastian, *37th European Conference on Object-Oriented Programming (ECOOP) (2024), pp. 1-33*
 
 ### 2022
 
