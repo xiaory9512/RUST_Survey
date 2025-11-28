@@ -151,6 +151,9 @@ Papers analyzing concurrent programming and memory safety guarantees.
 34. **[`Petri Nets-based Methods on Automatically Detecting Rust Concurrency Bugs`](https://arxiv.org/pdf/2212.02754.pdf)**
     Wang, Yuxiang and Zhang, Tao and others, *arXiv preprint arXiv:2212.02754 (2025)*
 
+35. **[`Lessons Learned So Far From Verifying the Rust Standard Library (work-in-progress)`](https://systemf.epfl.ch/etc/vstte2025/preprints/Lessons%20Learned%20So%20Far%20From%20Verifying%20the%20Rust%20Standard%20Library.pdf)**
+    Le Blanc, Alex and Lam, Patrick, *arXiv preprint arXiv--2510 (2025)*
+
 
 ### 2024
 
