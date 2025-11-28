@@ -349,8 +349,12 @@ Papers analyzing concurrent programming and memory safety guarantees.
 21. **[`Leveraging rust types for program synthesis`](https://dl.acm.org/doi/10.1145/3591278)**  
    Fiala, Jon{\'a}{\v{s}} and Itzhaky, Shachar and M{\"u}ller, Peter and Polikarpova, Nadia and Sergey, Ilya, *Proceedings of the ACM on Programming Languages (2023), pp. 1414-1437*
 
-21. **[`Brief Announcement: Is the Problem-Based Benchmark Suite Fearless with Rust?`](https://dl.acm.org/doi/10.1145/3558481.3591313)**  
+22. **[`Brief Announcement: Is the Problem-Based Benchmark Suite Fearless with Rust?`](https://dl.acm.org/doi/10.1145/3558481.3591313)**  
    Abdi, Javad and Zhang, Guowei and Jeffrey, Mark C, *Proceedings of the 35th ACM Symposium on Parallelism in Algorithms and Architectures (2023), pp. 303-305*
+
+23. **[`Automatically enforcing rust trait properties`](https://link.springer.com/chapter/10.1007/978-3-031-50521-8_10)**  
+   Byrnes, Twain and Takashima, Yoshiki and Jia, Limin, *International Conference on Verification, Model Checking, and Abstract Interpretation (2023), pp. 210-223*
+
 
 ### 2022
 
