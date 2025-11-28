@@ -154,6 +154,9 @@ Papers analyzing concurrent programming and memory safety guarantees.
 35. **[`Lessons Learned So Far From Verifying the Rust Standard Library (work-in-progress)`](https://systemf.epfl.ch/etc/vstte2025/preprints/Lessons%20Learned%20So%20Far%20From%20Verifying%20the%20Rust%20Standard%20Library.pdf)**
     Le Blanc, Alex and Lam, Patrick, *arXiv preprint arXiv--2510 (2025)*
 
+36. **[`Machine learning-based vulnerability detection in rust code using llvm ir and transformer model`](https://www.mdpi.com/2504-4990/7/3/79)**
+    Lee, Young and Boshra, Syeda Jannatul and Yang, Jeong and Cao, Zechun and Liang, Gongbo, *Machine Learning and Knowledge Extraction, (MDPI), (2025)*
+
 
 ### 2024
 
@@ -358,7 +361,7 @@ Papers analyzing concurrent programming and memory safety guarantees.
 23. **[`Automatically enforcing rust trait properties`](https://link.springer.com/chapter/10.1007/978-3-031-50521-8_10)**  
    Byrnes, Twain and Takashima, Yoshiki and Jia, Limin, *International Conference on Verification, Model Checking, and Abstract Interpretation (2023), pp. 210-223*
 
-44. **[`ConDRust: Scalable Deterministic Concurrency from Verifiable Rust Programs`](https://drops.dagstuhl.de/storage/00lipics/lipics-vol263-ecoop2023/LIPIcs.ECOOP.2023.33/LIPIcs.ECOOP.2023.33.pdf
+24. **[`ConDRust: Scalable Deterministic Concurrency from Verifiable Rust Programs`](https://drops.dagstuhl.de/storage/00lipics/lipics-vol263-ecoop2023/LIPIcs.ECOOP.2023.33/LIPIcs.ECOOP.2023.33.pdf
 )**  
  Suchert, Felix and Zeidler, Lisza and Castrillon, Jeronimo and Ertel, Sebastian, *37th European Conference on Object-Oriented Programming (ECOOP) (2024), pp. 1-33*
 
