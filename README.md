@@ -439,6 +439,17 @@ Papers analyzing concurrent programming and memory safety guarantees.
 13. **[`Modular specification and verification of closures in Rust`](https://dl.acm.org/doi/10.1145/3485522)**  
    Wolff, Fabian and B{\'\i}l{\`y}, Aurel and Matheja, Christoph and M{\"u}ller, Peter and Summers, Alexander J, *Proceedings of the ACM on Programming Languages (OOPSLA), (2021), pp. 1-29*
 
+14. add the following when find sometime.
+@article{xu2021memory,
+  title={Memory-safety challenge considered solved? An in-depth study with all Rust CVEs},
+  author={Xu, Hui and Chen, Zhuangbin and Sun, Mingshen and Zhou, Yangfan and Lyu, Michael R},
+  journal={ACM Transactions on Software Engineering and Methodology (TOSEM)},
+  volume={31},
+  number={1},
+  pages={1--25},
+  year={2021},
+  publisher={ACM New York, NY}
+}
 
 ### 2020
 
