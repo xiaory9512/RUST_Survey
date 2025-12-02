@@ -289,6 +289,14 @@ Papers analyzing concurrent programming and memory safety guarantees.
 43. **[`An Empirical Study of $\{$Rust-for-Linux$\}$: The Success, Dissatisfaction, and Compromise`](https://www.usenix.org/system/files/atc24-li-hongyu.pdf)**  
  Li, Hongyu and Guo, Liwei and Yang, Yexuan and Wang, Shangguang and Xu, Mengwei, *USENIX Annual Technical Conference (USENIX ATC) (2024), pp. 425-443*
 
+44. add the following
+@inproceedings{li2024empirical,
+  title={An Empirical Study of $\{$Rust-for-Linux$\}$: The Success, Dissatisfaction, and Compromise},
+  author={Li, Hongyu and Guo, Liwei and Yang, Yexuan and Wang, Shangguang and Xu, Mengwei},
+  booktitle={2024 USENIX Annual Technical Conference (USENIX ATC 24)},
+  pages={425--443},
+  year={2024}
+}
 
 ### 2023
 
