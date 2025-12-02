@@ -11,7 +11,7 @@ A curated list of research papers on Rust programming language security, verific
 
 ## Overview
 
-This repository maintains a comprehensive survey of academic research papers related to Rust programming language, with a focus on:
+This repository maintains a comprehensive survey of academic research papers related to Rust programming language, with a focus on: 
 - Security vulnerability detection
 - Type system analysis
 - Formal verification
